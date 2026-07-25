@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-17T10:32:15.082Z",
+  "generated_at": "2026-09-17T10:32:17.284Z",
   "items": {
     "problem:148": {
       "kind": "problem",
@@ -104,6 +104,84 @@
       "last_pushed_at": "2026-07-24T18:02:51.998Z",
       "language": "python",
       "lines": 10
+    },
+    "problem:7": {
+      "kind": "problem",
+      "id": "7",
+      "title": "Matrix Transformation ",
+      "difficulty": "medium",
+      "category": "Linear Algebra",
+      "url": "https://www.deep-ml.com/problems/7",
+      "path": "problems/0007-matrix-transformation",
+      "first_solved_at": "2026-07-25T11:30:27.854Z",
+      "last_pushed_at": "2026-07-25T11:30:27.854Z",
+      "language": "python",
+      "lines": 20
+    },
+    "problem:8": {
+      "kind": "problem",
+      "id": "8",
+      "title": "Calculate 2x2 Matrix Inverse",
+      "difficulty": "easy",
+      "category": "Linear Algebra",
+      "url": "https://www.deep-ml.com/problems/8",
+      "path": "problems/0008-calculate-2x2-matrix-inverse",
+      "first_solved_at": "2026-07-25T11:37:04.155Z",
+      "last_pushed_at": "2026-07-25T11:37:04.155Z",
+      "language": "python",
+      "lines": 19
+    },
+    "problem:9": {
+      "kind": "problem",
+      "id": "9",
+      "title": "Matrix times Matrix ",
+      "difficulty": "medium",
+      "category": "Linear Algebra",
+      "url": "https://www.deep-ml.com/problems/9",
+      "path": "problems/0009-matrix-times-matrix",
+      "first_solved_at": "2026-07-25T12:15:31.958Z",
+      "last_pushed_at": "2026-07-25T12:15:31.958Z",
+      "language": "python",
+      "lines": 14
+    },
+    "problem:11": {
+      "kind": "problem",
+      "id": "11",
+      "title": "Solve Linear Equations using Jacobi Method",
+      "difficulty": "medium",
+      "category": "Linear Algebra",
+      "url": "https://www.deep-ml.com/problems/11",
+      "path": "problems/0011-solve-linear-equations-using-jacobi-method",
+      "first_solved_at": "2026-07-25T15:37:00.603Z",
+      "last_pushed_at": "2026-07-25T15:37:00.603Z",
+      "language": "python",
+      "lines": 8
+    },
+    "problem:10": {
+      "kind": "problem",
+      "id": "10",
+      "title": "Calculate Covariance Matrix",
+      "difficulty": "easy",
+      "category": "Statistics",
+      "url": "https://www.deep-ml.com/problems/10",
+      "path": "problems/0010-calculate-covariance-matrix",
+      "first_solved_at": "2026-07-25T15:52:06.398Z",
+      "last_pushed_at": "2026-07-25T15:52:06.398Z",
+      "language": "python",
+      "lines": 21
+    },
+    "problem:116": {
+      "kind": "problem",
+      "id": "116",
+      "title": "Derivative of a Polynomial",
+      "difficulty": "easy",
+      "category": "Calculus",
+      "url": "https://www.deep-ml.com/problems/116",
+      "path": "problems/0116-derivative-of-a-polynomial",
+      "first_solved_at": "2026-07-25T15:54:29.777Z",
+      "last_pushed_at": "2026-07-25T15:54:29.777Z",
+      "language": "python",
+      "lines": 2
     }
   }
 }
