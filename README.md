@@ -2,7 +2,7 @@
 
 My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solution here was written by hand.
 
-**14** solved · 14 problems · 0 labs · 0 math
+**24** solved · 24 problems · 0 labs · 0 math
 
 ![Coverage](./coverage.svg)
 
@@ -17,14 +17,24 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 | [Calculate Covariance Matrix](https://www.deep-ml.com/problems/10) | easy | 2026-07-25 | [solution](problems/0010-calculate-covariance-matrix) |
 | [Calculate Mean by Row or Column](https://www.deep-ml.com/problems/4) | easy | 2026-07-24 | [solution](problems/0004-calculate-mean-by-row-or-column) |
 | [Derivative of a Polynomial](https://www.deep-ml.com/problems/116) | easy | 2026-07-25 | [solution](problems/0116-derivative-of-a-polynomial) |
+| [Derivatives of Activation Functions](https://www.deep-ml.com/problems/217) | easy | 2026-07-26 | [solution](problems/0217-derivatives-of-activation-functions) |
+| [Gradient Direction and Magnitude](https://www.deep-ml.com/problems/308) | easy | 2026-07-26 | [solution](problems/0308-gradient-direction-and-magnitude) |
 | [Matrix-Vector Dot Product](https://www.deep-ml.com/problems/1) | easy | 2026-07-24 | [solution](problems/0001-matrix-vector-dot-product) |
 | [Permutation Test for a Difference in Means](https://www.deep-ml.com/problems/1426) | easy | 2026-09-17 | [solution](problems/1426-permutation-test-for-a-difference-in-means) |
 | [Reshape Matrix](https://www.deep-ml.com/problems/3) | easy | 2026-07-24 | [solution](problems/0003-reshape-matrix) |
 | [Scalar Multiplication of a Matrix](https://www.deep-ml.com/problems/5) | easy | 2026-07-24 | [solution](problems/0005-scalar-multiplication-of-a-matrix) |
 | [Transpose of a Matrix](https://www.deep-ml.com/problems/2) | easy | 2026-07-24 | [solution](problems/0002-transpose-of-a-matrix) |
 | [Calculate Eigenvalues of a Matrix](https://www.deep-ml.com/problems/6) | medium | 2026-07-24 | [solution](problems/0006-calculate-eigenvalues-of-a-matrix) |
+| [Chain Rule for Composite Functions](https://www.deep-ml.com/problems/214) | medium | 2026-07-26 | [solution](problems/0214-chain-rule-for-composite-functions) |
+| [Compute the Hessian Matrix](https://www.deep-ml.com/problems/218) | medium | 2026-07-26 | [solution](problems/0218-compute-the-hessian-matrix) |
+| [Derivative of Cross-Entropy Loss w.r.t. Logits](https://www.deep-ml.com/problems/220) | medium | 2026-07-26 | [solution](problems/0220-derivative-of-cross-entropy-loss-w-r-t-logits) |
+| [Derivative of Softmax](https://www.deep-ml.com/problems/219) | medium | 2026-07-26 | [solution](problems/0219-derivative-of-softmax) |
+| [Jacobian Matrix Calculation](https://www.deep-ml.com/problems/202) | medium | 2026-07-26 | [solution](problems/0202-jacobian-matrix-calculation) |
 | [Matrix times Matrix ](https://www.deep-ml.com/problems/9) | medium | 2026-07-25 | [solution](problems/0009-matrix-times-matrix) |
 | [Matrix Transformation ](https://www.deep-ml.com/problems/7) | medium | 2026-07-25 | [solution](problems/0007-matrix-transformation) |
+| [Partial Derivatives of Multivariable Functions](https://www.deep-ml.com/problems/215) | medium | 2026-07-26 | [solution](problems/0215-partial-derivatives-of-multivariable-functions) |
+| [Product Rule for Derivatives](https://www.deep-ml.com/problems/309) | medium | 2026-07-26 | [solution](problems/0309-product-rule-for-derivatives) |
+| [Quotient Rule for Derivatives](https://www.deep-ml.com/problems/312) | medium | 2026-07-26 | [solution](problems/0312-quotient-rule-for-derivatives) |
 | [Solve Linear Equations using Jacobi Method](https://www.deep-ml.com/problems/11) | medium | 2026-07-25 | [solution](problems/0011-solve-linear-equations-using-jacobi-method) |
 
 ---
