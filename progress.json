@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-17T10:32:20.709Z",
+  "generated_at": "2026-09-17T10:32:23.479Z",
   "items": {
     "problem:148": {
       "kind": "problem",
@@ -507,6 +507,136 @@
       "last_pushed_at": "2026-07-27T15:19:07.564Z",
       "language": "python",
       "lines": 5
+    },
+    "lab:4": {
+      "kind": "lab",
+      "id": "4",
+      "title": "MNIST: Classification Loss (with Gradient)",
+      "difficulty": "hard",
+      "category": "Loss Functions",
+      "url": "https://www.deep-ml.com/labs/4",
+      "path": "labs/0004-mnist-classification-loss-with-gradient",
+      "first_solved_at": "2026-07-28T05:12:26.671Z",
+      "last_pushed_at": "2026-07-28T05:12:26.671Z",
+      "language": "python",
+      "lines": 30
+    },
+    "problem:184": {
+      "kind": "problem",
+      "id": "184",
+      "title": "Empirical Probability Mass Function (PMF)",
+      "difficulty": "easy",
+      "category": "Statistics",
+      "url": "https://www.deep-ml.com/problems/184",
+      "path": "problems/0184-empirical-probability-mass-function-pmf",
+      "first_solved_at": "2026-07-28T05:29:38.985Z",
+      "last_pushed_at": "2026-07-28T05:29:38.985Z",
+      "language": "python",
+      "lines": 16
+    },
+    "problem:78": {
+      "kind": "problem",
+      "id": "78",
+      "title": "Descriptive Statistics Calculator",
+      "difficulty": "easy",
+      "category": "Statistics",
+      "url": "https://www.deep-ml.com/problems/78",
+      "path": "problems/0078-descriptive-statistics-calculator",
+      "first_solved_at": "2026-07-28T05:37:24.328Z",
+      "last_pushed_at": "2026-07-28T05:37:24.328Z",
+      "language": "python",
+      "lines": 25
+    },
+    "problem:95": {
+      "kind": "problem",
+      "id": "95",
+      "title": "Calculate the Phi Coefficient",
+      "difficulty": "easy",
+      "category": "Statistics",
+      "url": "https://www.deep-ml.com/problems/95",
+      "path": "problems/0095-calculate-the-phi-coefficient",
+      "first_solved_at": "2026-07-28T05:45:25.598Z",
+      "last_pushed_at": "2026-07-28T05:45:25.598Z",
+      "language": "python",
+      "lines": 36
+    },
+    "problem:120": {
+      "kind": "problem",
+      "id": "120",
+      "title": "Bhattacharyya Distance Between Two Distributions",
+      "difficulty": "easy",
+      "category": "Statistics",
+      "url": "https://www.deep-ml.com/problems/120",
+      "path": "problems/0120-bhattacharyya-distance-between-two-distributions",
+      "first_solved_at": "2026-07-28T05:48:42.528Z",
+      "last_pushed_at": "2026-07-28T05:48:42.528Z",
+      "language": "python",
+      "lines": 13
+    },
+    "problem:340": {
+      "kind": "problem",
+      "id": "340",
+      "title": "Exponential Distribution PDF and CDF",
+      "difficulty": "easy",
+      "category": "Statistics",
+      "url": "https://www.deep-ml.com/problems/340",
+      "path": "problems/0340-exponential-distribution-pdf-and-cdf",
+      "first_solved_at": "2026-07-28T05:59:09.706Z",
+      "last_pushed_at": "2026-07-28T05:59:09.706Z",
+      "language": "python",
+      "lines": 37
+    },
+    "problem:337": {
+      "kind": "problem",
+      "id": "337",
+      "title": "Maximum Likelihood Estimation for Gaussian Distribution",
+      "difficulty": "medium",
+      "category": "Statistics",
+      "url": "https://www.deep-ml.com/problems/337",
+      "path": "problems/0337-maximum-likelihood-estimation-for-gaussian-distribution",
+      "first_solved_at": "2026-07-28T06:02:37.936Z",
+      "last_pushed_at": "2026-07-28T06:02:37.936Z",
+      "language": "python",
+      "lines": 18
+    },
+    "problem:339": {
+      "kind": "problem",
+      "id": "339",
+      "title": "Beta Distribution PDF and Statistics",
+      "difficulty": "medium",
+      "category": "Statistics",
+      "url": "https://www.deep-ml.com/problems/339",
+      "path": "problems/0339-beta-distribution-pdf-and-statistics",
+      "first_solved_at": "2026-07-28T06:19:18.489Z",
+      "last_pushed_at": "2026-07-28T06:19:18.489Z",
+      "language": "python",
+      "lines": 47
+    },
+    "problem:342": {
+      "kind": "problem",
+      "id": "342",
+      "title": "Demonstrate Law of Large Numbers with Sampling",
+      "difficulty": "easy",
+      "category": "Statistics",
+      "url": "https://www.deep-ml.com/problems/342",
+      "path": "problems/0342-demonstrate-law-of-large-numbers-with-sampling",
+      "first_solved_at": "2026-07-28T06:21:06.596Z",
+      "last_pushed_at": "2026-07-28T06:21:06.596Z",
+      "language": "python",
+      "lines": 22
+    },
+    "problem:1130": {
+      "kind": "problem",
+      "id": "1130",
+      "title": "Generate Normal Samples and Compute Histogram Counts",
+      "difficulty": "easy",
+      "category": "Statistics",
+      "url": "https://www.deep-ml.com/problems/1130",
+      "path": "problems/1130-generate-normal-samples-and-compute-histogram-counts",
+      "first_solved_at": "2026-07-28T06:29:18.453Z",
+      "last_pushed_at": "2026-07-28T06:29:18.453Z",
+      "language": "python",
+      "lines": 8
     }
   }
 }
