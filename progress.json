@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-18T16:18:14.434Z",
+  "generated_at": "2026-09-18T16:18:17.416Z",
   "items": {
     "problem:148": {
       "kind": "problem",
@@ -1378,6 +1378,45 @@
       "last_pushed_at": "2026-07-30T10:45:03.174Z",
       "language": "python",
       "lines": 32
+    },
+    "problem:56": {
+      "kind": "problem",
+      "id": "56",
+      "title": "KL Divergence Between Two Normal Distributions",
+      "difficulty": "easy",
+      "category": "Deep Learning",
+      "url": "https://www.deep-ml.com/problems/56",
+      "path": "problems/0056-kl-divergence-between-two-normal-distributions",
+      "first_solved_at": "2026-07-31T06:29:24.048Z",
+      "last_pushed_at": "2026-07-31T06:29:24.048Z",
+      "language": "python",
+      "lines": 7
+    },
+    "problem:136": {
+      "kind": "problem",
+      "id": "136",
+      "title": "Calculate KL Divergence Between Two Multivariate Gaussian Distributions",
+      "difficulty": "medium",
+      "category": "Probability",
+      "url": "https://www.deep-ml.com/problems/136",
+      "path": "problems/0136-calculate-kl-divergence-between-two-multivariate-gaussian-distributions",
+      "first_solved_at": "2026-07-31T06:30:05.277Z",
+      "last_pushed_at": "2026-07-31T06:30:05.277Z",
+      "language": "python",
+      "lines": 34
+    },
+    "problem:338": {
+      "kind": "problem",
+      "id": "338",
+      "title": "Maximum A Posteriori (MAP) Estimation for Bernoulli Parameter",
+      "difficulty": "medium",
+      "category": "Machine Learning",
+      "url": "https://www.deep-ml.com/problems/338",
+      "path": "problems/0338-maximum-a-posteriori-map-estimation-for-bernoulli-parameter",
+      "first_solved_at": "2026-07-31T08:11:04.435Z",
+      "last_pushed_at": "2026-07-31T08:11:04.435Z",
+      "language": "python",
+      "lines": 19
     }
   }
 }
