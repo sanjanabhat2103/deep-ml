@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-18T16:18:17.416Z",
+  "generated_at": "2026-09-18T16:18:19.292Z",
   "items": {
     "problem:148": {
       "kind": "problem",
@@ -1417,6 +1417,67 @@
       "last_pushed_at": "2026-07-31T08:11:04.435Z",
       "language": "python",
       "lines": 19
+    },
+    "math:27": {
+      "kind": "math",
+      "id": "27",
+      "title": "Statistical Inference",
+      "difficulty": "medium",
+      "category": "Probability and Statistics for Machine Learning",
+      "url": "https://www.deep-ml.com/math-problems/27",
+      "path": "math/0027-statistical-inference",
+      "first_solved_at": "2026-08-02T16:58:26.935Z",
+      "last_pushed_at": "2026-08-02T16:58:26.935Z"
+    },
+    "problem:212": {
+      "kind": "problem",
+      "id": "212",
+      "title": "Confidence Interval for Population Mean",
+      "difficulty": "medium",
+      "category": "Statistics",
+      "url": "https://www.deep-ml.com/problems/212",
+      "path": "problems/0212-confidence-interval-for-population-mean",
+      "first_solved_at": "2026-08-02T17:01:05.694Z",
+      "last_pushed_at": "2026-08-02T17:01:05.694Z",
+      "language": "python",
+      "lines": 73
+    },
+    "problem:296": {
+      "kind": "problem",
+      "id": "296",
+      "title": "Calculate Statistical Power for Experiment Design",
+      "difficulty": "medium",
+      "category": "Statistics",
+      "url": "https://www.deep-ml.com/problems/296",
+      "path": "problems/0296-calculate-statistical-power-for-experiment-design",
+      "first_solved_at": "2026-08-02T17:02:11.928Z",
+      "last_pushed_at": "2026-08-02T17:02:11.928Z",
+      "language": "python",
+      "lines": 54
+    },
+    "problem:211": {
+      "kind": "problem",
+      "id": "211",
+      "title": "Two-Sample T-Test Implementation",
+      "difficulty": "hard",
+      "category": "Statistics",
+      "url": "https://www.deep-ml.com/problems/211",
+      "path": "problems/0211-two-sample-t-test-implementation",
+      "first_solved_at": "2026-08-02T17:03:38.012Z",
+      "last_pushed_at": "2026-08-02T17:03:38.012Z",
+      "language": "python",
+      "lines": 122
+    },
+    "math:28": {
+      "kind": "math",
+      "id": "28",
+      "title": "Bayesian Methods",
+      "difficulty": "hard",
+      "category": "Probability and Statistics for Machine Learning",
+      "url": "https://www.deep-ml.com/math-problems/28",
+      "path": "math/0028-bayesian-methods",
+      "first_solved_at": "2026-08-02T17:04:50.390Z",
+      "last_pushed_at": "2026-08-02T17:04:50.390Z"
     }
   }
 }
