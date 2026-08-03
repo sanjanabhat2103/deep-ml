@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-18T16:18:19.292Z",
+  "generated_at": "2026-09-18T16:18:21.192Z",
   "items": {
     "problem:148": {
       "kind": "problem",
@@ -1478,6 +1478,95 @@
       "path": "math/0028-bayesian-methods",
       "first_solved_at": "2026-08-02T17:04:50.390Z",
       "last_pushed_at": "2026-08-02T17:04:50.390Z"
+    },
+    "problem:213": {
+      "kind": "problem",
+      "id": "213",
+      "title": "Bayesian Inference for Beta-Binomial Model",
+      "difficulty": "medium",
+      "category": "Statistics",
+      "url": "https://www.deep-ml.com/problems/213",
+      "path": "problems/0213-bayesian-inference-for-beta-binomial-model",
+      "first_solved_at": "2026-08-03T05:07:21.533Z",
+      "last_pushed_at": "2026-08-03T05:07:21.533Z",
+      "language": "python",
+      "lines": 24
+    },
+    "problem:206": {
+      "kind": "problem",
+      "id": "206",
+      "title": "Variational Inference: ELBO Computation",
+      "difficulty": "hard",
+      "category": "Machine Learning",
+      "url": "https://www.deep-ml.com/problems/206",
+      "path": "problems/0206-variational-inference-elbo-computation",
+      "first_solved_at": "2026-08-03T05:21:47.168Z",
+      "last_pushed_at": "2026-08-03T05:21:47.168Z",
+      "language": "python",
+      "lines": 29
+    },
+    "math:29": {
+      "kind": "math",
+      "id": "29",
+      "title": "Probabilistic Models",
+      "difficulty": "hard",
+      "category": "Probability and Statistics for Machine Learning",
+      "url": "https://www.deep-ml.com/math-problems/29",
+      "path": "math/0029-probabilistic-models",
+      "first_solved_at": "2026-08-03T05:25:06.549Z",
+      "last_pushed_at": "2026-08-03T05:25:06.549Z"
+    },
+    "problem:132": {
+      "kind": "problem",
+      "id": "132",
+      "title": "Simulate Markov Chain Transitions",
+      "difficulty": "medium",
+      "category": "Probability",
+      "url": "https://www.deep-ml.com/problems/132",
+      "path": "problems/0132-simulate-markov-chain-transitions",
+      "first_solved_at": "2026-08-03T05:26:04.276Z",
+      "last_pushed_at": "2026-08-03T05:26:04.276Z",
+      "language": "python",
+      "lines": 27
+    },
+    "problem:341": {
+      "kind": "problem",
+      "id": "341",
+      "title": "Gaussian Mixture Model with EM Algorithm",
+      "difficulty": "medium",
+      "category": "Machine Learning",
+      "url": "https://www.deep-ml.com/problems/341",
+      "path": "problems/0341-gaussian-mixture-model-with-em-algorithm",
+      "first_solved_at": "2026-08-03T05:28:41.323Z",
+      "last_pushed_at": "2026-08-03T05:28:41.323Z",
+      "language": "python",
+      "lines": 63
+    },
+    "problem:16": {
+      "kind": "problem",
+      "id": "16",
+      "title": "Feature Scaling Implementation",
+      "difficulty": "easy",
+      "category": "Machine Learning",
+      "url": "https://www.deep-ml.com/problems/16",
+      "path": "problems/0016-feature-scaling-implementation",
+      "first_solved_at": "2026-08-03T05:33:40.397Z",
+      "last_pushed_at": "2026-08-03T05:33:40.397Z",
+      "language": "python",
+      "lines": 10
+    },
+    "problem:34": {
+      "kind": "problem",
+      "id": "34",
+      "title": "One-Hot Encoding of Nominal Values",
+      "difficulty": "easy",
+      "category": "Machine Learning",
+      "url": "https://www.deep-ml.com/problems/34",
+      "path": "problems/0034-one-hot-encoding-of-nominal-values",
+      "first_solved_at": "2026-08-03T05:37:18.819Z",
+      "last_pushed_at": "2026-08-03T05:37:18.819Z",
+      "language": "python",
+      "lines": 22
     }
   }
 }

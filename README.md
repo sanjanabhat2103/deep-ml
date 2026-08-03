@@ -4,7 +4,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 
 **Completed:** Calculus (9/9)
 
-**114** solved · 107 problems · 5 labs · 2 math
+**121** solved · 113 problems · 5 labs · 3 math
 
 ![Coverage](./coverage.svg)
 
@@ -37,6 +37,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 | [Empirical Probability Mass Function (PMF)](https://www.deep-ml.com/problems/184) | easy | 2026-07-28 | [solution](problems/0184-empirical-probability-mass-function-pmf) |
 | [Expected Value and Variance of an n-Sided Die](https://www.deep-ml.com/problems/179) | easy | 2026-07-29 | [solution](problems/0179-expected-value-and-variance-of-an-n-sided-die) |
 | [Exponential Distribution PDF and CDF](https://www.deep-ml.com/problems/340) | easy | 2026-07-28 | [solution](problems/0340-exponential-distribution-pdf-and-cdf) |
+| [Feature Scaling Implementation](https://www.deep-ml.com/problems/16) | easy | 2026-08-03 | [solution](problems/0016-feature-scaling-implementation) |
 | [Generate Normal Samples and Compute Histogram Counts](https://www.deep-ml.com/problems/1130) | easy | 2026-07-28 | [solution](problems/1130-generate-normal-samples-and-compute-histogram-counts) |
 | [Gradient Direction and Magnitude](https://www.deep-ml.com/problems/308) | easy | 2026-07-26 | [solution](problems/0308-gradient-direction-and-magnitude) |
 | [Implement Orthogonal Projection of a Vector onto a Line](https://www.deep-ml.com/problems/66) | easy | 2026-07-29 | [solution](problems/0066-implement-orthogonal-projection-of-a-vector-onto-a-line) |
@@ -47,6 +48,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 | [Matrix-Vector Dot Product](https://www.deep-ml.com/problems/1) | easy | 2026-07-24 | [solution](problems/0001-matrix-vector-dot-product) |
 | [Min-Max Scaling of Feature Values](https://www.deep-ml.com/problems/112) | easy | 2026-07-29 | [solution](problems/0112-min-max-scaling-of-feature-values) |
 | [Momentum Optimizer](https://www.deep-ml.com/problems/146) | easy | 2026-07-27 | [solution](problems/0146-momentum-optimizer) |
+| [One-Hot Encoding of Nominal Values](https://www.deep-ml.com/problems/34) | easy | 2026-08-03 | [solution](problems/0034-one-hot-encoding-of-nominal-values) |
 | [Permutation Test for a Difference in Means](https://www.deep-ml.com/problems/1426) | easy | 2026-09-17 | [solution](problems/1426-permutation-test-for-a-difference-in-means) |
 | [Poisson Distribution Probability Calculator](https://www.deep-ml.com/problems/81) | easy | 2026-07-29 | [solution](problems/0081-poisson-distribution-probability-calculator) |
 | [Reshape Matrix](https://www.deep-ml.com/problems/3) | easy | 2026-07-24 | [solution](problems/0003-reshape-matrix) |
@@ -61,6 +63,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 | [Vector Norms (L1/L2/L-inf) and the Frobenius Norm](https://www.deep-ml.com/problems/328) | easy | 2026-07-29 | [solution](problems/0328-vector-norms-l1-l2-l-inf-and-the-frobenius-norm) |
 | [Adadelta Optimizer](https://www.deep-ml.com/problems/149) | medium | 2026-09-17 | [solution](problems/0149-adadelta-optimizer) |
 | [Adam Optimizer](https://www.deep-ml.com/problems/87) | medium | 2026-09-17 | [solution](problems/0087-adam-optimizer) |
+| [Bayesian Inference for Beta-Binomial Model](https://www.deep-ml.com/problems/213) | medium | 2026-08-03 | [solution](problems/0213-bayesian-inference-for-beta-binomial-model) |
 | [Beta Distribution PDF and Statistics](https://www.deep-ml.com/problems/339) | medium | 2026-07-28 | [solution](problems/0339-beta-distribution-pdf-and-statistics) |
 | [Binary Search for Value or Closest Index](https://www.deep-ml.com/problems/1216) | medium | 2026-09-17 | [solution](problems/1216-binary-search-for-value-or-closest-index) |
 | [Binomial Distribution Probability](https://www.deep-ml.com/problems/79) | medium | 2026-07-29 | [solution](problems/0079-binomial-distribution-probability) |
@@ -88,6 +91,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 | [Find Captain Redbeard's Hidden Treasure](https://www.deep-ml.com/problems/127) | medium | 2026-07-27 | [solution](problems/0127-find-captain-redbeard-s-hidden-treasure) |
 | [Gauss-Seidel Method for Solving Linear Systems](https://www.deep-ml.com/problems/57) | medium | 2026-07-29 | [solution](problems/0057-gauss-seidel-method-for-solving-linear-systems) |
 | [Gaussian Elimination for Solving Linear Systems](https://www.deep-ml.com/problems/58) | medium | 2026-07-29 | [solution](problems/0058-gaussian-elimination-for-solving-linear-systems) |
+| [Gaussian Mixture Model with EM Algorithm](https://www.deep-ml.com/problems/341) | medium | 2026-08-03 | [solution](problems/0341-gaussian-mixture-model-with-em-algorithm) |
 | [Gradient Clipping by Global Norm](https://www.deep-ml.com/problems/197) | medium | 2026-09-17 | [solution](problems/0197-gradient-clipping-by-global-norm) |
 | [Handle Missing Data with Imputation](https://www.deep-ml.com/problems/354) | medium | 2026-07-29 | [solution](problems/0354-handle-missing-data-with-imputation) |
 | [Hypergeometric Distribution PMF](https://www.deep-ml.com/problems/245) | medium | 2026-07-29 | [solution](problems/0245-hypergeometric-distribution-pmf) |
@@ -114,6 +118,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 | [Partial Derivatives of Multivariable Functions](https://www.deep-ml.com/problems/215) | medium | 2026-07-26 | [solution](problems/0215-partial-derivatives-of-multivariable-functions) |
 | [Product Rule for Derivatives](https://www.deep-ml.com/problems/309) | medium | 2026-07-26 | [solution](problems/0309-product-rule-for-derivatives) |
 | [Quotient Rule for Derivatives](https://www.deep-ml.com/problems/312) | medium | 2026-07-26 | [solution](problems/0312-quotient-rule-for-derivatives) |
+| [Simulate Markov Chain Transitions](https://www.deep-ml.com/problems/132) | medium | 2026-08-03 | [solution](problems/0132-simulate-markov-chain-transitions) |
 | [Single Neuron with Backpropagation](https://www.deep-ml.com/problems/25) | medium | 2026-07-27 | [solution](problems/0025-single-neuron-with-backpropagation) |
 | [Solve Linear Equations using Jacobi Method](https://www.deep-ml.com/problems/11) | medium | 2026-07-25 | [solution](problems/0011-solve-linear-equations-using-jacobi-method) |
 | [Solve System of Linear Equations Using Cramer's Rule](https://www.deep-ml.com/problems/119) | medium | 2026-07-29 | [solution](problems/0119-solve-system-of-linear-equations-using-cramer-s-rule) |
@@ -121,6 +126,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 | [QR Decomposition](https://www.deep-ml.com/problems/201) | hard | 2026-07-29 | [solution](problems/0201-qr-decomposition) |
 | [Singular Value Decomposition (SVD) of 2x2 Matrix](https://www.deep-ml.com/problems/12) | hard | 2026-07-27 | [solution](problems/0012-singular-value-decomposition-svd-of-2x2-matrix) |
 | [Two-Sample T-Test Implementation](https://www.deep-ml.com/problems/211) | hard | 2026-08-02 | [solution](problems/0211-two-sample-t-test-implementation) |
+| [Variational Inference: ELBO Computation](https://www.deep-ml.com/problems/206) | hard | 2026-08-03 | [solution](problems/0206-variational-inference-elbo-computation) |
 
 ## Labs
 
@@ -138,6 +144,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 | --- | --- | --- | --- |
 | [Statistical Inference](https://www.deep-ml.com/math-problems/27) | medium | 2026-08-02 | [solution](math/0027-statistical-inference) |
 | [Bayesian Methods](https://www.deep-ml.com/math-problems/28) | hard | 2026-08-02 | [solution](math/0028-bayesian-methods) |
+| [Probabilistic Models](https://www.deep-ml.com/math-problems/29) | hard | 2026-08-03 | [solution](math/0029-probabilistic-models) |
 
 ---
 
