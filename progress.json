@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-18T16:18:21.192Z",
+  "generated_at": "2026-09-18T16:18:23.365Z",
   "items": {
     "problem:148": {
       "kind": "problem",
@@ -1567,6 +1567,58 @@
       "last_pushed_at": "2026-08-03T05:37:18.819Z",
       "language": "python",
       "lines": 22
+    },
+    "problem:23": {
+      "kind": "problem",
+      "id": "23",
+      "title": "Softmax Activation Function Implementation ",
+      "difficulty": "easy",
+      "category": "Deep Learning",
+      "url": "https://www.deep-ml.com/problems/23",
+      "path": "problems/0023-softmax-activation-function-implementation",
+      "first_solved_at": "2026-08-04T03:54:53.635Z",
+      "last_pushed_at": "2026-08-04T03:54:53.635Z",
+      "language": "python",
+      "lines": 7
+    },
+    "problem:44": {
+      "kind": "problem",
+      "id": "44",
+      "title": "Leaky ReLU Activation Function",
+      "difficulty": "easy",
+      "category": "Deep Learning",
+      "url": "https://www.deep-ml.com/problems/44",
+      "path": "problems/0044-leaky-relu-activation-function",
+      "first_solved_at": "2026-08-04T03:57:17.679Z",
+      "last_pushed_at": "2026-08-04T03:57:17.679Z",
+      "language": "python",
+      "lines": 5
+    },
+    "problem:42": {
+      "kind": "problem",
+      "id": "42",
+      "title": "Implement ReLU Activation Function",
+      "difficulty": "easy",
+      "category": "Deep Learning",
+      "url": "https://www.deep-ml.com/problems/42",
+      "path": "problems/0042-implement-relu-activation-function",
+      "first_solved_at": "2026-08-04T03:59:22.499Z",
+      "last_pushed_at": "2026-08-04T03:59:22.499Z",
+      "language": "python",
+      "lines": 2
+    },
+    "problem:46": {
+      "kind": "problem",
+      "id": "46",
+      "title": "Implement Precision Metric",
+      "difficulty": "easy",
+      "category": "Machine Learning",
+      "url": "https://www.deep-ml.com/problems/46",
+      "path": "problems/0046-implement-precision-metric",
+      "first_solved_at": "2026-08-04T04:00:40.082Z",
+      "last_pushed_at": "2026-08-04T04:00:40.082Z",
+      "language": "python",
+      "lines": 10
     }
   }
 }
