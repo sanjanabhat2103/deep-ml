@@ -4,7 +4,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 
 **Completed:** Calculus (9/9)
 
-**125** solved · 117 problems · 5 labs · 3 math
+**148** solved · 134 problems · 5 labs · 9 math
 
 ![Coverage](./coverage.svg)
 
@@ -21,8 +21,13 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 | [Calculate Conditional Probability from Data](https://www.deep-ml.com/problems/168) | easy | 2026-07-30 | [solution](problems/0168-calculate-conditional-probability-from-data) |
 | [Calculate Cosine Similarity Between Vectors](https://www.deep-ml.com/problems/76) | easy | 2026-07-29 | [solution](problems/0076-calculate-cosine-similarity-between-vectors) |
 | [Calculate Covariance Matrix](https://www.deep-ml.com/problems/10) | easy | 2026-07-25 | [solution](problems/0010-calculate-covariance-matrix) |
+| [Calculate F1 Score from Predicted and True Labels](https://www.deep-ml.com/problems/91) | easy | 2026-08-05 | [solution](problems/0091-calculate-f1-score-from-predicted-and-true-labels) |
+| [Calculate Jaccard Index for Binary Classification](https://www.deep-ml.com/problems/72) | easy | 2026-08-05 | [solution](problems/0072-calculate-jaccard-index-for-binary-classification) |
+| [Calculate Mean Absolute Error (MAE)](https://www.deep-ml.com/problems/93) | easy | 2026-08-05 | [solution](problems/0093-calculate-mean-absolute-error-mae) |
 | [Calculate Mean by Row or Column](https://www.deep-ml.com/problems/4) | easy | 2026-07-24 | [solution](problems/0004-calculate-mean-by-row-or-column) |
 | [Calculate P50/P95/P99 Latency Percentiles](https://www.deep-ml.com/problems/293) | easy | 2026-07-30 | [solution](problems/0293-calculate-p50-p95-p99-latency-percentiles) |
+| [Calculate R-squared for Regression Analysis](https://www.deep-ml.com/problems/69) | easy | 2026-08-05 | [solution](problems/0069-calculate-r-squared-for-regression-analysis) |
+| [Calculate Root Mean Square Error (RMSE)](https://www.deep-ml.com/problems/71) | easy | 2026-08-05 | [solution](problems/0071-calculate-root-mean-square-error-rmse) |
 | [Calculate the Phi Coefficient](https://www.deep-ml.com/problems/95) | easy | 2026-07-28 | [solution](problems/0095-calculate-the-phi-coefficient) |
 | [Check Linear Independence of Vectors](https://www.deep-ml.com/problems/331) | easy | 2026-07-29 | [solution](problems/0331-check-linear-independence-of-vectors) |
 | [Compute Discounted Return](https://www.deep-ml.com/problems/165) | easy | 2026-09-17 | [solution](problems/0165-compute-discounted-return) |
@@ -43,6 +48,15 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 | [Implement Orthogonal Projection of a Vector onto a Line](https://www.deep-ml.com/problems/66) | easy | 2026-07-29 | [solution](problems/0066-implement-orthogonal-projection-of-a-vector-onto-a-line) |
 | [Implement Precision Metric](https://www.deep-ml.com/problems/46) | easy | 2026-08-04 | [solution](problems/0046-implement-precision-metric) |
 | [Implement ReLU Activation Function](https://www.deep-ml.com/problems/42) | easy | 2026-08-04 | [solution](problems/0042-implement-relu-activation-function) |
+| [Implement Ridge Regression Loss Function](https://www.deep-ml.com/problems/43) | easy | 2026-08-05 | [solution](problems/0043-implement-ridge-regression-loss-function) |
+| [Implement the ELU Activation Function](https://www.deep-ml.com/problems/97) | easy | 2026-08-05 | [solution](problems/0097-implement-the-elu-activation-function) |
+| [Implement the Hard Sigmoid Activation Function](https://www.deep-ml.com/problems/96) | easy | 2026-08-05 | [solution](problems/0096-implement-the-hard-sigmoid-activation-function) |
+| [Implement the Mish Activation Function](https://www.deep-ml.com/problems/262) | easy | 2026-08-05 | [solution](problems/0262-implement-the-mish-activation-function) |
+| [Implement the SELU Activation Function](https://www.deep-ml.com/problems/103) | easy | 2026-08-05 | [solution](problems/0103-implement-the-selu-activation-function) |
+| [Implement the Softplus Activation Function](https://www.deep-ml.com/problems/99) | easy | 2026-08-05 | [solution](problems/0099-implement-the-softplus-activation-function) |
+| [Implement the Softsign Activation Function](https://www.deep-ml.com/problems/100) | easy | 2026-08-05 | [solution](problems/0100-implement-the-softsign-activation-function) |
+| [Implement the Swish Activation Function](https://www.deep-ml.com/problems/102) | easy | 2026-08-05 | [solution](problems/0102-implement-the-swish-activation-function) |
+| [Implement the Tanh Activation Function](https://www.deep-ml.com/problems/264) | easy | 2026-08-05 | [solution](problems/0264-implement-the-tanh-activation-function) |
 | [KL Divergence Between Two Normal Distributions](https://www.deep-ml.com/problems/56) | easy | 2026-07-31 | [solution](problems/0056-kl-divergence-between-two-normal-distributions) |
 | [Leaky ReLU Activation Function](https://www.deep-ml.com/problems/44) | easy | 2026-08-04 | [solution](problems/0044-leaky-relu-activation-function) |
 | [Linear Regression Using Gradient Descent](https://www.deep-ml.com/problems/15) | easy | 2026-07-27 | [solution](problems/0015-linear-regression-using-gradient-descent) |
@@ -65,6 +79,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 | [Transpose of a Matrix](https://www.deep-ml.com/problems/2) | easy | 2026-07-24 | [solution](problems/0002-transpose-of-a-matrix) |
 | [Vector Element-wise Sum](https://www.deep-ml.com/problems/121) | easy | 2026-07-29 | [solution](problems/0121-vector-element-wise-sum) |
 | [Vector Norms (L1/L2/L-inf) and the Frobenius Norm](https://www.deep-ml.com/problems/328) | easy | 2026-07-29 | [solution](problems/0328-vector-norms-l1-l2-l-inf-and-the-frobenius-norm) |
+| [2D Translation Matrix Implementation](https://www.deep-ml.com/problems/55) | medium | 2026-08-05 | [solution](problems/0055-2d-translation-matrix-implementation) |
 | [Adadelta Optimizer](https://www.deep-ml.com/problems/149) | medium | 2026-09-17 | [solution](problems/0149-adadelta-optimizer) |
 | [Adam Optimizer](https://www.deep-ml.com/problems/87) | medium | 2026-09-17 | [solution](problems/0087-adam-optimizer) |
 | [Bayesian Inference for Beta-Binomial Model](https://www.deep-ml.com/problems/213) | medium | 2026-08-03 | [solution](problems/0213-bayesian-inference-for-beta-binomial-model) |
@@ -75,6 +90,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 | [Calculate Correlation Matrix](https://www.deep-ml.com/problems/37) | medium | 2026-07-29 | [solution](problems/0037-calculate-correlation-matrix) |
 | [Calculate Eigenvalues of a Matrix](https://www.deep-ml.com/problems/6) | medium | 2026-07-24 | [solution](problems/0006-calculate-eigenvalues-of-a-matrix) |
 | [Calculate KL Divergence Between Two Multivariate Gaussian Distributions](https://www.deep-ml.com/problems/136) | medium | 2026-07-31 | [solution](problems/0136-calculate-kl-divergence-between-two-multivariate-gaussian-distributions) |
+| [Calculate Performance Metrics for a Classification Model](https://www.deep-ml.com/problems/77) | medium | 2026-08-05 | [solution](problems/0077-calculate-performance-metrics-for-a-classification-model) |
 | [Calculate Statistical Power for Experiment Design](https://www.deep-ml.com/problems/296) | medium | 2026-08-02 | [solution](problems/0296-calculate-statistical-power-for-experiment-design) |
 | [Central Limit Theorem Simulation](https://www.deep-ml.com/problems/182) | medium | 2026-07-30 | [solution](problems/0182-central-limit-theorem-simulation) |
 | [Chain Rule for Composite Functions](https://www.deep-ml.com/problems/214) | medium | 2026-07-26 | [solution](problems/0214-chain-rule-for-composite-functions) |
@@ -93,6 +109,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 | [Engram Context-Aware Gating](https://www.deep-ml.com/problems/327) | medium | 2026-07-29 | [solution](problems/0327-engram-context-aware-gating) |
 | [Entropy & Cross-Entropy](https://www.deep-ml.com/problems/205) | medium | 2026-07-30 | [solution](problems/0205-entropy-cross-entropy) |
 | [Find Captain Redbeard's Hidden Treasure](https://www.deep-ml.com/problems/127) | medium | 2026-07-27 | [solution](problems/0127-find-captain-redbeard-s-hidden-treasure) |
+| [Find the column space of a matrix](https://www.deep-ml.com/problems/68) | medium | 2026-08-05 | [solution](problems/0068-find-the-column-space-of-a-matrix) |
 | [Gauss-Seidel Method for Solving Linear Systems](https://www.deep-ml.com/problems/57) | medium | 2026-07-29 | [solution](problems/0057-gauss-seidel-method-for-solving-linear-systems) |
 | [Gaussian Elimination for Solving Linear Systems](https://www.deep-ml.com/problems/58) | medium | 2026-07-29 | [solution](problems/0058-gaussian-elimination-for-solving-linear-systems) |
 | [Gaussian Mixture Model with EM Algorithm](https://www.deep-ml.com/problems/341) | medium | 2026-08-03 | [solution](problems/0341-gaussian-mixture-model-with-em-algorithm) |
@@ -146,7 +163,13 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 
 | | Difficulty | Solved | |
 | --- | --- | --- | --- |
+| [Expectation and Variance Algebra](https://www.deep-ml.com/math-problems/33) | easy | 2026-08-05 | [solution](math/0033-expectation-and-variance-algebra) |
+| [ML Workflow Basics](https://www.deep-ml.com/math-problems/30) | easy | 2026-08-05 | [solution](math/0030-ml-workflow-basics) |
+| [Least Squares and the Normal Equations](https://www.deep-ml.com/math-problems/34) | medium | 2026-08-05 | [solution](math/0034-least-squares-and-the-normal-equations) |
+| [Matrix Calculus Identities](https://www.deep-ml.com/math-problems/35) | medium | 2026-08-05 | [solution](math/0035-matrix-calculus-identities) |
+| [Softmax and Cross-Entropy](https://www.deep-ml.com/math-problems/32) | medium | 2026-08-05 | [solution](math/0032-softmax-and-cross-entropy) |
 | [Statistical Inference](https://www.deep-ml.com/math-problems/27) | medium | 2026-08-02 | [solution](math/0027-statistical-inference) |
+| [Taylor Expansions and Local Quadratic Models](https://www.deep-ml.com/math-problems/37) | medium | 2026-08-05 | [solution](math/0037-taylor-expansions-and-local-quadratic-models) |
 | [Bayesian Methods](https://www.deep-ml.com/math-problems/28) | hard | 2026-08-02 | [solution](math/0028-bayesian-methods) |
 | [Probabilistic Models](https://www.deep-ml.com/math-problems/29) | hard | 2026-08-03 | [solution](math/0029-probabilistic-models) |
 
