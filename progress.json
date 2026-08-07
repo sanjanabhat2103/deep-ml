@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-18T16:22:14.894Z",
+  "generated_at": "2026-09-18T16:22:18.396Z",
   "items": {
     "problem:148": {
       "kind": "problem",
@@ -2310,6 +2310,71 @@
       "last_pushed_at": "2026-08-06T19:03:15.062Z",
       "language": "python",
       "lines": 21
+    },
+    "problem:183": {
+      "kind": "problem",
+      "id": "183",
+      "title": "Calculate Portfolio Variance",
+      "difficulty": "easy",
+      "category": "Financial Engineering",
+      "url": "https://www.deep-ml.com/problems/183",
+      "path": "problems/0183-calculate-portfolio-variance",
+      "first_solved_at": "2026-08-07T04:01:16.209Z",
+      "last_pushed_at": "2026-08-07T04:01:16.209Z",
+      "language": "python",
+      "lines": 20
+    },
+    "problem:237": {
+      "kind": "problem",
+      "id": "237",
+      "title": "Convert RGB Image to Grayscale",
+      "difficulty": "easy",
+      "category": "Computer Vision",
+      "url": "https://www.deep-ml.com/problems/237",
+      "path": "problems/0237-convert-rgb-image-to-grayscale",
+      "first_solved_at": "2026-08-07T04:04:50.775Z",
+      "last_pushed_at": "2026-08-07T04:04:50.775Z",
+      "language": "python",
+      "lines": 24
+    },
+    "problem:283": {
+      "kind": "problem",
+      "id": "283",
+      "title": "Implement Hinge Loss for SVM",
+      "difficulty": "easy",
+      "category": "Machine Learning",
+      "url": "https://www.deep-ml.com/problems/283",
+      "path": "problems/0283-implement-hinge-loss-for-svm",
+      "first_solved_at": "2026-08-07T05:15:49.807Z",
+      "last_pushed_at": "2026-08-07T05:15:49.807Z",
+      "language": "python",
+      "lines": 19
+    },
+    "problem:334": {
+      "kind": "problem",
+      "id": "334",
+      "title": "Cholesky Decomposition",
+      "difficulty": "medium",
+      "category": "Linear Algebra",
+      "url": "https://www.deep-ml.com/problems/334",
+      "path": "problems/0334-cholesky-decomposition",
+      "first_solved_at": "2026-08-07T05:19:24.979Z",
+      "last_pushed_at": "2026-08-07T05:19:24.979Z",
+      "language": "python",
+      "lines": 23
+    },
+    "problem:373": {
+      "kind": "problem",
+      "id": "373",
+      "title": "Implement the Square ReLU Activation Function",
+      "difficulty": "easy",
+      "category": "Deep Learning",
+      "url": "https://www.deep-ml.com/problems/373",
+      "path": "problems/0373-implement-the-square-relu-activation-function",
+      "first_solved_at": "2026-08-07T06:40:26.813Z",
+      "last_pushed_at": "2026-08-07T06:40:26.813Z",
+      "language": "python",
+      "lines": 16
     }
   }
 }
