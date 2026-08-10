@@ -4,7 +4,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 
 **Completed:** Calculus (9/9)
 
-**185** solved · 165 problems · 5 labs · 15 math
+**193** solved · 169 problems · 6 labs · 18 math
 
 ![Coverage](./coverage.svg)
 
@@ -79,6 +79,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 | [Implement the Swish Activation Function](https://www.deep-ml.com/problems/102) | easy | 2026-08-05 | [solution](problems/0102-implement-the-swish-activation-function) |
 | [Implement the Tanh Activation Function](https://www.deep-ml.com/problems/264) | easy | 2026-08-05 | [solution](problems/0264-implement-the-tanh-activation-function) |
 | [KL Divergence Between Two Normal Distributions](https://www.deep-ml.com/problems/56) | easy | 2026-07-31 | [solution](problems/0056-kl-divergence-between-two-normal-distributions) |
+| [L2 Normalization Along an Axis](https://www.deep-ml.com/problems/1022) | easy | 2026-08-10 | [solution](problems/1022-l2-normalization-along-an-axis) |
 | [Leaky ReLU Activation Function](https://www.deep-ml.com/problems/44) | easy | 2026-08-04 | [solution](problems/0044-leaky-relu-activation-function) |
 | [Linear Kernel Function](https://www.deep-ml.com/problems/45) | easy | 2026-08-06 | [solution](problems/0045-linear-kernel-function) |
 | [Linear Learning Rate Decay](https://www.deep-ml.com/problems/377) | easy | 2026-08-06 | [solution](problems/0377-linear-learning-rate-decay) |
@@ -89,6 +90,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 | [Min-Max Scaling of Feature Values](https://www.deep-ml.com/problems/112) | easy | 2026-07-29 | [solution](problems/0112-min-max-scaling-of-feature-values) |
 | [Momentum Optimizer](https://www.deep-ml.com/problems/146) | easy | 2026-07-27 | [solution](problems/0146-momentum-optimizer) |
 | [One-Hot Encoding of Nominal Values](https://www.deep-ml.com/problems/34) | easy | 2026-08-03 | [solution](problems/0034-one-hot-encoding-of-nominal-values) |
+| [Pairwise Cosine Similarity Matrix](https://www.deep-ml.com/problems/1072) | easy | 2026-08-10 | [solution](problems/1072-pairwise-cosine-similarity-matrix) |
 | [Permutation Test for a Difference in Means](https://www.deep-ml.com/problems/1426) | easy | 2026-09-17 | [solution](problems/1426-permutation-test-for-a-difference-in-means) |
 | [Phi Transformation for Polynomial Features](https://www.deep-ml.com/problems/84) | easy | 2026-08-06 | [solution](problems/0084-phi-transformation-for-polynomial-features) |
 | [Poisson Distribution Probability Calculator](https://www.deep-ml.com/problems/81) | easy | 2026-07-29 | [solution](problems/0081-poisson-distribution-probability-calculator) |
@@ -174,7 +176,9 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 | [Single Neuron with Backpropagation](https://www.deep-ml.com/problems/25) | medium | 2026-07-27 | [solution](problems/0025-single-neuron-with-backpropagation) |
 | [Solve Linear Equations using Jacobi Method](https://www.deep-ml.com/problems/11) | medium | 2026-07-25 | [solution](problems/0011-solve-linear-equations-using-jacobi-method) |
 | [Solve System of Linear Equations Using Cramer's Rule](https://www.deep-ml.com/problems/119) | medium | 2026-07-29 | [solution](problems/0119-solve-system-of-linear-equations-using-cramer-s-rule) |
+| [Truncated SVD Rank-r Approximation of Weight Updates](https://www.deep-ml.com/problems/872) | medium | 2026-08-10 | [solution](problems/0872-truncated-svd-rank-r-approximation-of-weight-updates) |
 | [Determinant of a 4x4 Matrix using Laplace's Expansion (hard)](https://www.deep-ml.com/problems/13) | hard | 2026-07-27 | [solution](problems/0013-determinant-of-a-4x4-matrix-using-laplace-s-expansion-hard) |
+| [Implement the Conjugate Gradient Method for Solving Linear Systems](https://www.deep-ml.com/problems/63) | hard | 2026-08-10 | [solution](problems/0063-implement-the-conjugate-gradient-method-for-solving-linear-systems) |
 | [QR Decomposition](https://www.deep-ml.com/problems/201) | hard | 2026-07-29 | [solution](problems/0201-qr-decomposition) |
 | [Singular Value Decomposition (SVD) of 2x2 Matrix](https://www.deep-ml.com/problems/12) | hard | 2026-07-27 | [solution](problems/0012-singular-value-decomposition-svd-of-2x2-matrix) |
 | [Two-Sample T-Test Implementation](https://www.deep-ml.com/problems/211) | hard | 2026-08-02 | [solution](problems/0211-two-sample-t-test-implementation) |
@@ -186,6 +190,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 | --- | --- | --- | --- |
 | [Dimensionality Reduction with Sklearn](https://www.deep-ml.com/labs/15) | easy | 2026-07-30 | [solution](labs/0015-dimensionality-reduction-with-sklearn) |
 | [PyTorch: Build a Complete Training Loop](https://www.deep-ml.com/labs/13) | easy | 2026-07-29 | [solution](labs/0013-pytorch-build-a-complete-training-loop) |
+| [Train a Linear Regression Model](https://www.deep-ml.com/labs/18) | easy | 2026-08-10 | [solution](labs/0018-train-a-linear-regression-model) |
 | [Numpy: Design Your Own Dimensionality Reduction](https://www.deep-ml.com/labs/14) | medium | 2026-07-30 | [solution](labs/0014-numpy-design-your-own-dimensionality-reduction) |
 | [PyTorch: Implement Your Own Gradient Descent Training Step](https://www.deep-ml.com/labs/12) | medium | 2026-07-29 | [solution](labs/0012-pytorch-implement-your-own-gradient-descent-training-step) |
 | [MNIST: Classification Loss (with Gradient)](https://www.deep-ml.com/labs/4) | hard | 2026-07-28 | [solution](labs/0004-mnist-classification-loss-with-gradient) |
@@ -200,9 +205,12 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 | [Bias–Variance Decomposition](https://www.deep-ml.com/math-problems/39) | medium | 2026-08-06 | [solution](math/0039-bias-variance-decomposition) |
 | [Gram–Schmidt and Orthonormal Bases](https://www.deep-ml.com/math-problems/47) | medium | 2026-08-06 | [solution](math/0047-gram-schmidt-and-orthonormal-bases) |
 | [Least Squares and the Normal Equations](https://www.deep-ml.com/math-problems/34) | medium | 2026-08-05 | [solution](math/0034-least-squares-and-the-normal-equations) |
+| [Log-Likelihood Gradients](https://www.deep-ml.com/math-problems/38) | medium | 2026-08-10 | [solution](math/0038-log-likelihood-gradients) |
 | [Matrix Calculus Identities](https://www.deep-ml.com/math-problems/35) | medium | 2026-08-05 | [solution](math/0035-matrix-calculus-identities) |
 | [Multivariate Gaussians](https://www.deep-ml.com/math-problems/36) | medium | 2026-08-06 | [solution](math/0036-multivariate-gaussians) |
 | [Positive Definite Matrices and Quadratic Forms](https://www.deep-ml.com/math-problems/50) | medium | 2026-08-06 | [solution](math/0050-positive-definite-matrices-and-quadratic-forms) |
+| [Pseudoinverse and Minimum-Norm Least Squares](https://www.deep-ml.com/math-problems/48) | medium | 2026-08-10 | [solution](math/0048-pseudoinverse-and-minimum-norm-least-squares) |
+| [Regularization and Generalization](https://www.deep-ml.com/math-problems/31) | medium | 2026-08-10 | [solution](math/0031-regularization-and-generalization) |
 | [Softmax and Cross-Entropy](https://www.deep-ml.com/math-problems/32) | medium | 2026-08-05 | [solution](math/0032-softmax-and-cross-entropy) |
 | [Statistical Inference](https://www.deep-ml.com/math-problems/27) | medium | 2026-08-02 | [solution](math/0027-statistical-inference) |
 | [Taylor Expansions and Local Quadratic Models](https://www.deep-ml.com/math-problems/37) | medium | 2026-08-05 | [solution](math/0037-taylor-expansions-and-local-quadratic-models) |

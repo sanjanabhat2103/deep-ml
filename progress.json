@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-18T16:22:18.396Z",
+  "generated_at": "2026-09-18T16:22:20.308Z",
   "items": {
     "problem:148": {
       "kind": "problem",
@@ -2375,6 +2375,104 @@
       "last_pushed_at": "2026-08-07T06:40:26.813Z",
       "language": "python",
       "lines": 16
+    },
+    "math:31": {
+      "kind": "math",
+      "id": "31",
+      "title": "Regularization and Generalization",
+      "difficulty": "medium",
+      "category": "Bias-variance and L2 penalty",
+      "url": "https://www.deep-ml.com/math-problems/31",
+      "path": "math/0031-regularization-and-generalization",
+      "first_solved_at": "2026-08-10T17:23:35.944Z",
+      "last_pushed_at": "2026-08-10T17:23:35.944Z"
+    },
+    "math:38": {
+      "kind": "math",
+      "id": "38",
+      "title": "Log-Likelihood Gradients",
+      "difficulty": "medium",
+      "category": "Probability and Statistics for Machine Learning",
+      "url": "https://www.deep-ml.com/math-problems/38",
+      "path": "math/0038-log-likelihood-gradients",
+      "first_solved_at": "2026-08-10T17:35:12.940Z",
+      "last_pushed_at": "2026-08-10T17:35:12.940Z"
+    },
+    "problem:1022": {
+      "kind": "problem",
+      "id": "1022",
+      "title": "L2 Normalization Along an Axis",
+      "difficulty": "easy",
+      "category": "Linear Algebra",
+      "url": "https://www.deep-ml.com/problems/1022",
+      "path": "problems/1022-l2-normalization-along-an-axis",
+      "first_solved_at": "2026-08-10T17:39:55.017Z",
+      "last_pushed_at": "2026-08-10T17:39:55.017Z",
+      "language": "python",
+      "lines": 17
+    },
+    "problem:1072": {
+      "kind": "problem",
+      "id": "1072",
+      "title": "Pairwise Cosine Similarity Matrix",
+      "difficulty": "easy",
+      "category": "Machine Learning",
+      "url": "https://www.deep-ml.com/problems/1072",
+      "path": "problems/1072-pairwise-cosine-similarity-matrix",
+      "first_solved_at": "2026-08-10T17:42:43.156Z",
+      "last_pushed_at": "2026-08-10T17:42:43.156Z",
+      "language": "python",
+      "lines": 7
+    },
+    "problem:63": {
+      "kind": "problem",
+      "id": "63",
+      "title": "Implement the Conjugate Gradient Method for Solving Linear Systems",
+      "difficulty": "hard",
+      "category": "Linear Algebra",
+      "url": "https://www.deep-ml.com/problems/63",
+      "path": "problems/0063-implement-the-conjugate-gradient-method-for-solving-linear-systems",
+      "first_solved_at": "2026-08-10T17:54:43.157Z",
+      "last_pushed_at": "2026-08-10T17:54:43.157Z",
+      "language": "python",
+      "lines": 34
+    },
+    "math:48": {
+      "kind": "math",
+      "id": "48",
+      "title": "Pseudoinverse and Minimum-Norm Least Squares",
+      "difficulty": "medium",
+      "category": "Linear Algebra",
+      "url": "https://www.deep-ml.com/math-problems/48",
+      "path": "math/0048-pseudoinverse-and-minimum-norm-least-squares",
+      "first_solved_at": "2026-08-10T18:01:59.456Z",
+      "last_pushed_at": "2026-08-10T18:01:59.456Z"
+    },
+    "lab:18": {
+      "kind": "lab",
+      "id": "18",
+      "title": "Train a Linear Regression Model",
+      "difficulty": "easy",
+      "category": "Regression",
+      "url": "https://www.deep-ml.com/labs/18",
+      "path": "labs/0018-train-a-linear-regression-model",
+      "first_solved_at": "2026-08-10T18:06:09.553Z",
+      "last_pushed_at": "2026-08-10T18:06:09.553Z",
+      "language": "python",
+      "lines": 23
+    },
+    "problem:872": {
+      "kind": "problem",
+      "id": "872",
+      "title": "Truncated SVD Rank-r Approximation of Weight Updates",
+      "difficulty": "medium",
+      "category": "Linear Algebra",
+      "url": "https://www.deep-ml.com/problems/872",
+      "path": "problems/0872-truncated-svd-rank-r-approximation-of-weight-updates",
+      "first_solved_at": "2026-08-10T18:27:03.154Z",
+      "last_pushed_at": "2026-08-10T18:27:03.154Z",
+      "language": "python",
+      "lines": 19
     }
   }
 }
