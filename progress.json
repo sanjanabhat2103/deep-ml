@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-18T16:22:20.308Z",
+  "generated_at": "2026-09-18T16:22:22.215Z",
   "items": {
     "problem:148": {
       "kind": "problem",
@@ -2473,6 +2473,74 @@
       "last_pushed_at": "2026-08-10T18:27:03.154Z",
       "language": "python",
       "lines": 19
+    },
+    "math:49": {
+      "kind": "math",
+      "id": "49",
+      "title": "PCA via Covariance Eigendecomposition",
+      "difficulty": "medium",
+      "category": "Linear Algebra",
+      "url": "https://www.deep-ml.com/math-problems/49",
+      "path": "math/0049-pca-via-covariance-eigendecomposition",
+      "first_solved_at": "2026-08-12T05:50:46.015Z",
+      "last_pushed_at": "2026-08-12T05:50:46.015Z"
+    },
+    "math:45": {
+      "kind": "math",
+      "id": "45",
+      "title": "Uniform Quantization: Scale and Zero-Point",
+      "difficulty": "medium",
+      "category": "Quantization",
+      "url": "https://www.deep-ml.com/math-problems/45",
+      "path": "math/0045-uniform-quantization-scale-and-zero-point",
+      "first_solved_at": "2026-08-12T06:43:37.490Z",
+      "last_pushed_at": "2026-08-12T06:43:37.490Z"
+    },
+    "math:42": {
+      "kind": "math",
+      "id": "42",
+      "title": "Margins and Soft-Margin SVMs",
+      "difficulty": "medium",
+      "category": "Machine Learning Fundamentals",
+      "url": "https://www.deep-ml.com/math-problems/42",
+      "path": "math/0042-margins-and-soft-margin-svms",
+      "first_solved_at": "2026-08-12T09:15:19.463Z",
+      "last_pushed_at": "2026-08-12T09:15:19.463Z"
+    },
+    "math:51": {
+      "kind": "math",
+      "id": "51",
+      "title": "Bradley-Terry Preference Model",
+      "difficulty": "medium",
+      "category": "Probability and Statistics for Machine Learning",
+      "url": "https://www.deep-ml.com/math-problems/51",
+      "path": "math/0051-bradley-terry-preference-model",
+      "first_solved_at": "2026-08-12T09:29:16.190Z",
+      "last_pushed_at": "2026-08-12T09:29:16.190Z"
+    },
+    "problem:1086": {
+      "kind": "problem",
+      "id": "1086",
+      "title": "Add Two Numbers as Linked Lists",
+      "difficulty": "easy",
+      "category": "Data Structures",
+      "url": "https://www.deep-ml.com/problems/1086",
+      "path": "problems/1086-add-two-numbers-as-linked-lists",
+      "first_solved_at": "2026-08-12T14:38:53.109Z",
+      "last_pushed_at": "2026-08-12T14:38:53.109Z",
+      "language": "python",
+      "lines": 16
+    },
+    "math:44": {
+      "kind": "math",
+      "id": "44",
+      "title": "Class Imbalance and Proper Scoring",
+      "difficulty": "easy",
+      "category": "Machine Learning Fundamentals",
+      "url": "https://www.deep-ml.com/math-problems/44",
+      "path": "math/0044-class-imbalance-and-proper-scoring",
+      "first_solved_at": "2026-08-12T18:14:57.826Z",
+      "last_pushed_at": "2026-08-12T18:14:57.826Z"
     }
   }
 }
