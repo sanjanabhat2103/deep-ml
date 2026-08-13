@@ -4,7 +4,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 
 **Completed:** Calculus (9/9)
 
-**199** solved · 170 problems · 6 labs · 23 math
+**200** solved · 171 problems · 6 labs · 23 math
 
 ![Coverage](./coverage.svg)
 
@@ -59,6 +59,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 | [GeLU Activation Function ](https://www.deep-ml.com/problems/147) | easy | 2026-08-06 | [solution](problems/0147-gelu-activation-function) |
 | [Generate Normal Samples and Compute Histogram Counts](https://www.deep-ml.com/problems/1130) | easy | 2026-07-28 | [solution](problems/1130-generate-normal-samples-and-compute-histogram-counts) |
 | [Gradient Direction and Magnitude](https://www.deep-ml.com/problems/308) | easy | 2026-07-26 | [solution](problems/0308-gradient-direction-and-magnitude) |
+| [Implement Compressed Row Sparse Matrix (CSR) Format Conversion](https://www.deep-ml.com/problems/65) | easy | 2026-08-13 | [solution](problems/0065-implement-compressed-row-sparse-matrix-csr-format-conversion) |
 | [Implement Early Stopping Based on Validation Loss](https://www.deep-ml.com/problems/135) | easy | 2026-08-06 | [solution](problems/0135-implement-early-stopping-based-on-validation-loss) |
 | [Implement Gini Impurity Calculation for a Set of Classes](https://www.deep-ml.com/problems/64) | easy | 2026-08-06 | [solution](problems/0064-implement-gini-impurity-calculation-for-a-set-of-classes) |
 | [Implement Hard Voting Classifier](https://www.deep-ml.com/problems/305) | easy | 2026-08-06 | [solution](problems/0305-implement-hard-voting-classifier) |
