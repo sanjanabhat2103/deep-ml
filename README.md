@@ -4,7 +4,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 
 **Completed:** Calculus (9/9)
 
-**200** solved · 171 problems · 6 labs · 23 math
+**205** solved · 173 problems · 6 labs · 26 math
 
 ![Coverage](./coverage.svg)
 
@@ -57,6 +57,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 | [Feature Scaling Implementation](https://www.deep-ml.com/problems/16) | easy | 2026-08-03 | [solution](problems/0016-feature-scaling-implementation) |
 | [First N Fibonacci Numbers](https://www.deep-ml.com/problems/1151) | easy | 2026-08-06 | [solution](problems/1151-first-n-fibonacci-numbers) |
 | [GeLU Activation Function ](https://www.deep-ml.com/problems/147) | easy | 2026-08-06 | [solution](problems/0147-gelu-activation-function) |
+| [Generate a Confusion Matrix for Binary Classification](https://www.deep-ml.com/problems/75) | easy | 2026-08-18 | [solution](problems/0075-generate-a-confusion-matrix-for-binary-classification) |
 | [Generate Normal Samples and Compute Histogram Counts](https://www.deep-ml.com/problems/1130) | easy | 2026-07-28 | [solution](problems/1130-generate-normal-samples-and-compute-histogram-counts) |
 | [Gradient Direction and Magnitude](https://www.deep-ml.com/problems/308) | easy | 2026-07-26 | [solution](problems/0308-gradient-direction-and-magnitude) |
 | [Implement Compressed Row Sparse Matrix (CSR) Format Conversion](https://www.deep-ml.com/problems/65) | easy | 2026-08-13 | [solution](problems/0065-implement-compressed-row-sparse-matrix-csr-format-conversion) |
@@ -70,6 +71,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 | [Implement Recall Metric in Binary Classification](https://www.deep-ml.com/problems/52) | easy | 2026-08-06 | [solution](problems/0052-implement-recall-metric-in-binary-classification) |
 | [Implement ReLU Activation Function](https://www.deep-ml.com/problems/42) | easy | 2026-08-04 | [solution](problems/0042-implement-relu-activation-function) |
 | [Implement Ridge Regression Loss Function](https://www.deep-ml.com/problems/43) | easy | 2026-08-05 | [solution](problems/0043-implement-ridge-regression-loss-function) |
+| [Implement SwiGLU activation function](https://www.deep-ml.com/problems/156) | easy | 2026-08-18 | [solution](problems/0156-implement-swiglu-activation-function) |
 | [Implement the ELU Activation Function](https://www.deep-ml.com/problems/97) | easy | 2026-08-05 | [solution](problems/0097-implement-the-elu-activation-function) |
 | [Implement the Hard Sigmoid Activation Function](https://www.deep-ml.com/problems/96) | easy | 2026-08-05 | [solution](problems/0096-implement-the-hard-sigmoid-activation-function) |
 | [Implement the Hardtanh Activation Function](https://www.deep-ml.com/problems/266) | easy | 2026-08-06 | [solution](problems/0266-implement-the-hardtanh-activation-function) |
@@ -202,6 +204,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 | | Difficulty | Solved | |
 | --- | --- | --- | --- |
 | [Class Imbalance and Proper Scoring](https://www.deep-ml.com/math-problems/44) | easy | 2026-08-12 | [solution](math/0044-class-imbalance-and-proper-scoring) |
+| [Discounted Return and the Geometric Series](https://www.deep-ml.com/math-problems/54) | easy | 2026-08-18 | [solution](math/0054-discounted-return-and-the-geometric-series) |
 | [Expectation and Variance Algebra](https://www.deep-ml.com/math-problems/33) | easy | 2026-08-05 | [solution](math/0033-expectation-and-variance-algebra) |
 | [ML Workflow Basics](https://www.deep-ml.com/math-problems/30) | easy | 2026-08-05 | [solution](math/0030-ml-workflow-basics) |
 | [Model Selection: CV, AIC, and BIC](https://www.deep-ml.com/math-problems/43) | easy | 2026-08-06 | [solution](math/0043-model-selection-cv-aic-and-bic) |
@@ -210,6 +213,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 | [Gram–Schmidt and Orthonormal Bases](https://www.deep-ml.com/math-problems/47) | medium | 2026-08-06 | [solution](math/0047-gram-schmidt-and-orthonormal-bases) |
 | [Least Squares and the Normal Equations](https://www.deep-ml.com/math-problems/34) | medium | 2026-08-05 | [solution](math/0034-least-squares-and-the-normal-equations) |
 | [Log-Likelihood Gradients](https://www.deep-ml.com/math-problems/38) | medium | 2026-08-10 | [solution](math/0038-log-likelihood-gradients) |
+| [Logistic Regression as Maximum Likelihood](https://www.deep-ml.com/math-problems/40) | medium | 2026-08-18 | [solution](math/0040-logistic-regression-as-maximum-likelihood) |
 | [Margins and Soft-Margin SVMs](https://www.deep-ml.com/math-problems/42) | medium | 2026-08-12 | [solution](math/0042-margins-and-soft-margin-svms) |
 | [Matrix Calculus Identities](https://www.deep-ml.com/math-problems/35) | medium | 2026-08-05 | [solution](math/0035-matrix-calculus-identities) |
 | [Multivariate Gaussians](https://www.deep-ml.com/math-problems/36) | medium | 2026-08-06 | [solution](math/0036-multivariate-gaussians) |
@@ -220,6 +224,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 | [Softmax and Cross-Entropy](https://www.deep-ml.com/math-problems/32) | medium | 2026-08-05 | [solution](math/0032-softmax-and-cross-entropy) |
 | [Statistical Inference](https://www.deep-ml.com/math-problems/27) | medium | 2026-08-02 | [solution](math/0027-statistical-inference) |
 | [Taylor Expansions and Local Quadratic Models](https://www.deep-ml.com/math-problems/37) | medium | 2026-08-05 | [solution](math/0037-taylor-expansions-and-local-quadratic-models) |
+| [The EM Algorithm](https://www.deep-ml.com/math-problems/41) | medium | 2026-08-18 | [solution](math/0041-the-em-algorithm) |
 | [The Four Fundamental Subspaces](https://www.deep-ml.com/math-problems/46) | medium | 2026-08-06 | [solution](math/0046-the-four-fundamental-subspaces) |
 | [Uniform Quantization: Scale and Zero-Point](https://www.deep-ml.com/math-problems/45) | medium | 2026-08-12 | [solution](math/0045-uniform-quantization-scale-and-zero-point) |
 | [Bayesian Methods](https://www.deep-ml.com/math-problems/28) | hard | 2026-08-02 | [solution](math/0028-bayesian-methods) |
