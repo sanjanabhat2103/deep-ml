@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-18T16:22:32.571Z",
+  "generated_at": "2026-09-18T16:22:34.930Z",
   "items": {
     "problem:148": {
       "kind": "problem",
@@ -2795,6 +2795,32 @@
       "last_pushed_at": "2026-08-20T10:55:35.505Z",
       "language": "python",
       "lines": 17
+    },
+    "problem:1327": {
+      "kind": "problem",
+      "id": "1327",
+      "title": "Compiling Functions with jax.jit",
+      "difficulty": "easy",
+      "category": "Jax",
+      "url": "https://www.deep-ml.com/problems/1327",
+      "path": "problems/1327-compiling-functions-with-jax-jit",
+      "first_solved_at": "2026-08-24T03:35:59.110Z",
+      "last_pushed_at": "2026-08-24T03:35:59.110Z",
+      "language": "python",
+      "lines": 8
+    },
+    "problem:1324": {
+      "kind": "problem",
+      "id": "1324",
+      "title": "Immutable Arrays: Functional Updates with .at",
+      "difficulty": "easy",
+      "category": "Jax",
+      "url": "https://www.deep-ml.com/problems/1324",
+      "path": "problems/1324-immutable-arrays-functional-updates-with-at",
+      "first_solved_at": "2026-08-24T03:38:20.134Z",
+      "last_pushed_at": "2026-08-24T03:38:20.134Z",
+      "language": "python",
+      "lines": 10
     }
   }
 }
