@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-18T16:23:24.109Z",
+  "generated_at": "2026-09-18T16:23:39.535Z",
   "items": {
     "problem:148": {
       "kind": "problem",
@@ -2834,6 +2834,149 @@
       "last_pushed_at": "2026-09-18T16:23:23.545Z",
       "language": "python",
       "lines": 4
+    },
+    "problem:1275": {
+      "kind": "problem",
+      "id": "1275",
+      "title": "Tensor Puzzle: First-Order Difference",
+      "difficulty": "easy",
+      "category": "Linear Algebra",
+      "url": "https://www.deep-ml.com/problems/1275",
+      "path": "problems/1275-tensor-puzzle-first-order-difference",
+      "first_solved_at": "2026-08-25T17:46:41.476Z",
+      "last_pushed_at": "2026-08-25T17:46:41.476Z",
+      "language": "python",
+      "lines": 11
+    },
+    "problem:1269": {
+      "kind": "problem",
+      "id": "1269",
+      "title": "Tensor Puzzle: Sum a Vector with a Dot Product",
+      "difficulty": "easy",
+      "category": "Linear Algebra",
+      "url": "https://www.deep-ml.com/problems/1269",
+      "path": "problems/1269-tensor-puzzle-sum-a-vector-with-a-dot-product",
+      "first_solved_at": "2026-08-25T17:47:44.359Z",
+      "last_pushed_at": "2026-08-25T17:47:44.359Z",
+      "language": "python",
+      "lines": 6
+    },
+    "problem:1271": {
+      "kind": "problem",
+      "id": "1271",
+      "title": "Tensor Puzzle: Extract the Diagonal",
+      "difficulty": "easy",
+      "category": "Linear Algebra",
+      "url": "https://www.deep-ml.com/problems/1271",
+      "path": "problems/1271-tensor-puzzle-extract-the-diagonal",
+      "first_solved_at": "2026-08-25T17:50:59.050Z",
+      "last_pushed_at": "2026-08-25T17:50:59.050Z",
+      "language": "python",
+      "lines": 8
+    },
+    "problem:1268": {
+      "kind": "problem",
+      "id": "1268",
+      "title": "Tensor Puzzle: Ones Vector from First Principles",
+      "difficulty": "easy",
+      "category": "Linear Algebra",
+      "url": "https://www.deep-ml.com/problems/1268",
+      "path": "problems/1268-tensor-puzzle-ones-vector-from-first-principles",
+      "first_solved_at": "2026-08-25T17:51:51.711Z",
+      "last_pushed_at": "2026-08-25T17:51:51.711Z",
+      "language": "python",
+      "lines": 8
+    },
+    "problem:1107": {
+      "kind": "problem",
+      "id": "1107",
+      "title": "Count rows per group",
+      "difficulty": "easy",
+      "category": "Sql",
+      "url": "https://www.deep-ml.com/problems/1107",
+      "path": "problems/1107-count-rows-per-group",
+      "first_solved_at": "2026-08-25T17:55:10.752Z",
+      "last_pushed_at": "2026-08-25T17:55:10.752Z",
+      "language": "sql",
+      "lines": 4
+    },
+    "problem:1101": {
+      "kind": "problem",
+      "id": "1101",
+      "title": "SELECT all rows",
+      "difficulty": "easy",
+      "category": "Sql",
+      "url": "https://www.deep-ml.com/problems/1101",
+      "path": "problems/1101-select-all-rows",
+      "first_solved_at": "2026-08-25T17:55:36.970Z",
+      "last_pushed_at": "2026-08-25T17:55:36.970Z",
+      "language": "sql",
+      "lines": 3
+    },
+    "problem:1102": {
+      "kind": "problem",
+      "id": "1102",
+      "title": "Select specific columns",
+      "difficulty": "easy",
+      "category": "Sql",
+      "url": "https://www.deep-ml.com/problems/1102",
+      "path": "problems/1102-select-specific-columns",
+      "first_solved_at": "2026-08-25T17:55:56.548Z",
+      "last_pushed_at": "2026-08-25T17:55:56.548Z",
+      "language": "sql",
+      "lines": 4
+    },
+    "problem:1103": {
+      "kind": "problem",
+      "id": "1103",
+      "title": "Filter rows with WHERE",
+      "difficulty": "easy",
+      "category": "Sql",
+      "url": "https://www.deep-ml.com/problems/1103",
+      "path": "problems/1103-filter-rows-with-where",
+      "first_solved_at": "2026-08-25T17:56:21.174Z",
+      "last_pushed_at": "2026-08-25T17:56:21.174Z",
+      "language": "sql",
+      "lines": 4
+    },
+    "problem:1104": {
+      "kind": "problem",
+      "id": "1104",
+      "title": "Sort results with ORDER BY",
+      "difficulty": "easy",
+      "category": "Sql",
+      "url": "https://www.deep-ml.com/problems/1104",
+      "path": "problems/1104-sort-results-with-order-by",
+      "first_solved_at": "2026-08-25T17:56:40.381Z",
+      "last_pushed_at": "2026-08-25T17:56:40.381Z",
+      "language": "sql",
+      "lines": 4
+    },
+    "problem:1105": {
+      "kind": "problem",
+      "id": "1105",
+      "title": "Remove duplicates with DISTINCT",
+      "difficulty": "easy",
+      "category": "Sql",
+      "url": "https://www.deep-ml.com/problems/1105",
+      "path": "problems/1105-remove-duplicates-with-distinct",
+      "first_solved_at": "2026-08-25T17:57:16.863Z",
+      "last_pushed_at": "2026-08-25T17:57:16.863Z",
+      "language": "sql",
+      "lines": 4
+    },
+    "problem:953": {
+      "kind": "problem",
+      "id": "953",
+      "title": "Calculate Vocabulary Size from Token List",
+      "difficulty": "easy",
+      "category": "NLP",
+      "url": "https://www.deep-ml.com/problems/953",
+      "path": "problems/0953-calculate-vocabulary-size-from-token-list",
+      "first_solved_at": "2026-08-25T18:01:50.775Z",
+      "last_pushed_at": "2026-08-25T18:01:50.775Z",
+      "language": "python",
+      "lines": 15
     }
   }
 }
