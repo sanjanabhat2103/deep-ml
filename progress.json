@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-18T16:23:41.703Z",
+  "generated_at": "2026-09-18T16:23:43.461Z",
   "items": {
     "problem:148": {
       "kind": "problem",
@@ -2990,6 +2990,32 @@
       "last_pushed_at": "2026-08-27T12:25:19.546Z",
       "language": "python",
       "lines": 20
+    },
+    "problem:145": {
+      "kind": "problem",
+      "id": "145",
+      "title": "Adagrad Optimizer",
+      "difficulty": "easy",
+      "category": "Deep Learning",
+      "url": "https://www.deep-ml.com/problems/145",
+      "path": "problems/0145-adagrad-optimizer",
+      "first_solved_at": "2026-09-09T17:44:59.214Z",
+      "last_pushed_at": "2026-09-09T17:44:59.214Z",
+      "language": "python",
+      "lines": 18
+    },
+    "problem:292": {
+      "kind": "problem",
+      "id": "292",
+      "title": "Implement Gradient Clipping by Value",
+      "difficulty": "easy",
+      "category": "Deep Learning",
+      "url": "https://www.deep-ml.com/problems/292",
+      "path": "problems/0292-implement-gradient-clipping-by-value",
+      "first_solved_at": "2026-09-09T17:46:52.370Z",
+      "last_pushed_at": "2026-09-09T17:46:52.370Z",
+      "language": "python",
+      "lines": 14
     }
   }
 }

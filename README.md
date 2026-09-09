@@ -4,7 +4,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 
 **Completed:** Calculus (9/9)
 
-**234** solved · 202 problems · 6 labs · 26 math
+**236** solved · 204 problems · 6 labs · 26 math
 
 ![Coverage](./coverage.svg)
 
@@ -14,6 +14,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 
 | | Difficulty | Solved | |
 | --- | --- | --- | --- |
+| [Adagrad Optimizer](https://www.deep-ml.com/problems/145) | easy | 2026-09-09 | [solution](problems/0145-adagrad-optimizer) |
 | [Adamax Optimizer](https://www.deep-ml.com/problems/148) | easy | 2026-09-17 | [solution](problems/0148-adamax-optimizer) |
 | [Add a Bias Vector to a Batch via Broadcasting](https://www.deep-ml.com/problems/882) | easy | 2026-09-18 | [solution](problems/0882-add-a-bias-vector-to-a-batch-via-broadcasting) |
 | [Add Two Numbers as Linked Lists](https://www.deep-ml.com/problems/1086) | easy | 2026-08-12 | [solution](problems/1086-add-two-numbers-as-linked-lists) |
@@ -74,6 +75,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 | [Implement Early Stopping Based on Validation Loss](https://www.deep-ml.com/problems/135) | easy | 2026-08-06 | [solution](problems/0135-implement-early-stopping-based-on-validation-loss) |
 | [Implement F-Score Calculation for Binary Classification](https://www.deep-ml.com/problems/61) | easy | 2026-08-20 | [solution](problems/0061-implement-f-score-calculation-for-binary-classification) |
 | [Implement Gini Impurity Calculation for a Set of Classes](https://www.deep-ml.com/problems/64) | easy | 2026-08-06 | [solution](problems/0064-implement-gini-impurity-calculation-for-a-set-of-classes) |
+| [Implement Gradient Clipping by Value](https://www.deep-ml.com/problems/292) | easy | 2026-09-09 | [solution](problems/0292-implement-gradient-clipping-by-value) |
 | [Implement Hard Voting Classifier](https://www.deep-ml.com/problems/305) | easy | 2026-08-06 | [solution](problems/0305-implement-hard-voting-classifier) |
 | [Implement Hinge Loss for SVM](https://www.deep-ml.com/problems/283) | easy | 2026-08-07 | [solution](problems/0283-implement-hinge-loss-for-svm) |
 | [Implement Orthogonal Projection of a Vector onto a Line](https://www.deep-ml.com/problems/66) | easy | 2026-07-29 | [solution](problems/0066-implement-orthogonal-projection-of-a-vector-onto-a-line) |
