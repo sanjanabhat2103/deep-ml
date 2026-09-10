@@ -4,7 +4,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 
 **Completed:** Calculus (9/9)
 
-**236** solved · 204 problems · 6 labs · 26 math
+**249** solved · 215 problems · 8 labs · 26 math
 
 ![Coverage](./coverage.svg)
 
@@ -114,6 +114,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 | [Permutation Test for a Difference in Means](https://www.deep-ml.com/problems/1426) | easy | 2026-09-17 | [solution](problems/1426-permutation-test-for-a-difference-in-means) |
 | [Phi Transformation for Polynomial Features](https://www.deep-ml.com/problems/84) | easy | 2026-08-06 | [solution](problems/0084-phi-transformation-for-polynomial-features) |
 | [Poisson Distribution Probability Calculator](https://www.deep-ml.com/problems/81) | easy | 2026-07-29 | [solution](problems/0081-poisson-distribution-probability-calculator) |
+| [Random Train/Validation/Test Split with Shuffling](https://www.deep-ml.com/problems/1058) | easy | 2026-09-10 | [solution](problems/1058-random-train-validation-test-split-with-shuffling) |
 | [ReLU with JAX Arrays](https://www.deep-ml.com/problems/1323) | easy | 2026-08-20 | [solution](problems/1323-relu-with-jax-arrays) |
 | [Remove duplicates with DISTINCT](https://www.deep-ml.com/problems/1105) | easy | 2026-08-25 | [solution](problems/1105-remove-duplicates-with-distinct) |
 | [Reshape and Transpose a Tensor](https://www.deep-ml.com/problems/881) | easy | 2026-09-18 | [solution](problems/0881-reshape-and-transpose-a-tensor) |
@@ -147,6 +148,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 | [2D Translation Matrix Implementation](https://www.deep-ml.com/problems/55) | medium | 2026-08-05 | [solution](problems/0055-2d-translation-matrix-implementation) |
 | [Adadelta Optimizer](https://www.deep-ml.com/problems/149) | medium | 2026-09-17 | [solution](problems/0149-adadelta-optimizer) |
 | [Adam Optimizer](https://www.deep-ml.com/problems/87) | medium | 2026-09-17 | [solution](problems/0087-adam-optimizer) |
+| [Analyze Singular Value Spectrum to Determine Intrinsic Rank](https://www.deep-ml.com/problems/876) | medium | 2026-09-10 | [solution](problems/0876-analyze-singular-value-spectrum-to-determine-intrinsic-rank) |
 | [Bayesian Inference for Beta-Binomial Model](https://www.deep-ml.com/problems/213) | medium | 2026-08-03 | [solution](problems/0213-bayesian-inference-for-beta-binomial-model) |
 | [Beta Distribution PDF and Statistics](https://www.deep-ml.com/problems/339) | medium | 2026-07-28 | [solution](problems/0339-beta-distribution-pdf-and-statistics) |
 | [Binary Search for Value or Closest Index](https://www.deep-ml.com/problems/1216) | medium | 2026-09-17 | [solution](problems/1216-binary-search-for-value-or-closest-index) |
@@ -174,6 +176,8 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 | [Confidence Interval for Population Mean](https://www.deep-ml.com/problems/212) | medium | 2026-08-02 | [solution](problems/0212-confidence-interval-for-population-mean) |
 | [Derivative of Cross-Entropy Loss w.r.t. Logits](https://www.deep-ml.com/problems/220) | medium | 2026-07-26 | [solution](problems/0220-derivative-of-cross-entropy-loss-w-r-t-logits) |
 | [Derivative of Softmax](https://www.deep-ml.com/problems/219) | medium | 2026-07-26 | [solution](problems/0219-derivative-of-softmax) |
+| [Dummy Classifier Baseline](https://www.deep-ml.com/problems/847) | medium | 2026-09-10 | [solution](problems/0847-dummy-classifier-baseline) |
+| [Dummy Regressor Baseline](https://www.deep-ml.com/problems/848) | medium | 2026-09-10 | [solution](problems/0848-dummy-regressor-baseline) |
 | [Engram Context-Aware Gating](https://www.deep-ml.com/problems/327) | medium | 2026-07-29 | [solution](problems/0327-engram-context-aware-gating) |
 | [Entropy & Cross-Entropy](https://www.deep-ml.com/problems/205) | medium | 2026-07-30 | [solution](problems/0205-entropy-cross-entropy) |
 | [Find Captain Redbeard's Hidden Treasure](https://www.deep-ml.com/problems/127) | medium | 2026-07-27 | [solution](problems/0127-find-captain-redbeard-s-hidden-treasure) |
@@ -181,6 +185,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 | [Gauss-Seidel Method for Solving Linear Systems](https://www.deep-ml.com/problems/57) | medium | 2026-07-29 | [solution](problems/0057-gauss-seidel-method-for-solving-linear-systems) |
 | [Gaussian Elimination for Solving Linear Systems](https://www.deep-ml.com/problems/58) | medium | 2026-07-29 | [solution](problems/0058-gaussian-elimination-for-solving-linear-systems) |
 | [Gaussian Mixture Model with EM Algorithm](https://www.deep-ml.com/problems/341) | medium | 2026-08-03 | [solution](problems/0341-gaussian-mixture-model-with-em-algorithm) |
+| [Gaussian Random Projection (Johnson-Lindenstrauss)](https://www.deep-ml.com/problems/822) | medium | 2026-09-10 | [solution](problems/0822-gaussian-random-projection-johnson-lindenstrauss) |
 | [Gradient Clipping by Global Norm](https://www.deep-ml.com/problems/197) | medium | 2026-09-17 | [solution](problems/0197-gradient-clipping-by-global-norm) |
 | [Handle Missing Data with Imputation](https://www.deep-ml.com/problems/354) | medium | 2026-07-29 | [solution](problems/0354-handle-missing-data-with-imputation) |
 | [Hypergeometric Distribution PMF](https://www.deep-ml.com/problems/245) | medium | 2026-07-29 | [solution](problems/0245-hypergeometric-distribution-pmf) |
@@ -199,23 +204,29 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 | [Matrix Transformation ](https://www.deep-ml.com/problems/7) | medium | 2026-07-25 | [solution](problems/0007-matrix-transformation) |
 | [Maximum A Posteriori (MAP) Estimation for Bernoulli Parameter](https://www.deep-ml.com/problems/338) | medium | 2026-07-31 | [solution](problems/0338-maximum-a-posteriori-map-estimation-for-bernoulli-parameter) |
 | [Maximum Likelihood Estimation for Gaussian Distribution](https://www.deep-ml.com/problems/337) | medium | 2026-07-28 | [solution](problems/0337-maximum-likelihood-estimation-for-gaussian-distribution) |
+| [Mini-Batch Gradient Descent Step for Linear Regression](https://www.deep-ml.com/problems/803) | medium | 2026-09-10 | [solution](problems/0803-mini-batch-gradient-descent-step-for-linear-regression) |
 | [Mutual Information](https://www.deep-ml.com/problems/204) | medium | 2026-07-30 | [solution](problems/0204-mutual-information) |
 | [Negative Binomial Distribution Probability](https://www.deep-ml.com/problems/247) | medium | 2026-07-30 | [solution](problems/0247-negative-binomial-distribution-probability) |
+| [Newton-Schulz Iteration for Approximate Orthogonalization](https://www.deep-ml.com/problems/739) | medium | 2026-09-10 | [solution](problems/0739-newton-schulz-iteration-for-approximate-orthogonalization) |
 | [Newton's Method for Optimization](https://www.deep-ml.com/problems/221) | medium | 2026-07-27 | [solution](problems/0221-newton-s-method-for-optimization) |
 | [Normal Distribution PDF Calculator](https://www.deep-ml.com/problems/80) | medium | 2026-07-29 | [solution](problems/0080-normal-distribution-pdf-calculator) |
 | [Numerical Gradient Checking](https://www.deep-ml.com/problems/313) | medium | 2026-07-27 | [solution](problems/0313-numerical-gradient-checking) |
 | [Partial Derivatives of Multivariable Functions](https://www.deep-ml.com/problems/215) | medium | 2026-07-26 | [solution](problems/0215-partial-derivatives-of-multivariable-functions) |
+| [Precision and Recall at Threshold](https://www.deep-ml.com/problems/849) | medium | 2026-09-10 | [solution](problems/0849-precision-and-recall-at-threshold) |
 | [Product Rule for Derivatives](https://www.deep-ml.com/problems/309) | medium | 2026-07-26 | [solution](problems/0309-product-rule-for-derivatives) |
 | [Quotient Rule for Derivatives](https://www.deep-ml.com/problems/312) | medium | 2026-07-26 | [solution](problems/0312-quotient-rule-for-derivatives) |
 | [Simulate Markov Chain Transitions](https://www.deep-ml.com/problems/132) | medium | 2026-08-03 | [solution](problems/0132-simulate-markov-chain-transitions) |
 | [Single Neuron with Backpropagation](https://www.deep-ml.com/problems/25) | medium | 2026-07-27 | [solution](problems/0025-single-neuron-with-backpropagation) |
 | [Solve Linear Equations using Jacobi Method](https://www.deep-ml.com/problems/11) | medium | 2026-07-25 | [solution](problems/0011-solve-linear-equations-using-jacobi-method) |
 | [Solve System of Linear Equations Using Cramer's Rule](https://www.deep-ml.com/problems/119) | medium | 2026-07-29 | [solution](problems/0119-solve-system-of-linear-equations-using-cramer-s-rule) |
+| [StandardScaler Fit and Transform](https://www.deep-ml.com/problems/842) | medium | 2026-09-10 | [solution](problems/0842-standardscaler-fit-and-transform) |
+| [Stochastic Gradient Descent Step for Linear Regression](https://www.deep-ml.com/problems/802) | medium | 2026-09-10 | [solution](problems/0802-stochastic-gradient-descent-step-for-linear-regression) |
 | [Truncated SVD Rank-r Approximation of Weight Updates](https://www.deep-ml.com/problems/872) | medium | 2026-08-10 | [solution](problems/0872-truncated-svd-rank-r-approximation-of-weight-updates) |
 | [Determinant of a 4x4 Matrix using Laplace's Expansion (hard)](https://www.deep-ml.com/problems/13) | hard | 2026-07-27 | [solution](problems/0013-determinant-of-a-4x4-matrix-using-laplace-s-expansion-hard) |
 | [Implement the Conjugate Gradient Method for Solving Linear Systems](https://www.deep-ml.com/problems/63) | hard | 2026-08-10 | [solution](problems/0063-implement-the-conjugate-gradient-method-for-solving-linear-systems) |
 | [QR Decomposition](https://www.deep-ml.com/problems/201) | hard | 2026-07-29 | [solution](problems/0201-qr-decomposition) |
 | [Singular Value Decomposition (SVD) of 2x2 Matrix](https://www.deep-ml.com/problems/12) | hard | 2026-07-27 | [solution](problems/0012-singular-value-decomposition-svd-of-2x2-matrix) |
+| [Train Logistic Regression with Gradient Descent](https://www.deep-ml.com/problems/106) | hard | 2026-09-10 | [solution](problems/0106-train-logistic-regression-with-gradient-descent) |
 | [Two-Sample T-Test Implementation](https://www.deep-ml.com/problems/211) | hard | 2026-08-02 | [solution](problems/0211-two-sample-t-test-implementation) |
 | [Variational Inference: ELBO Computation](https://www.deep-ml.com/problems/206) | hard | 2026-08-03 | [solution](problems/0206-variational-inference-elbo-computation) |
 
@@ -225,7 +236,9 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 | --- | --- | --- | --- |
 | [Dimensionality Reduction with Sklearn](https://www.deep-ml.com/labs/15) | easy | 2026-07-30 | [solution](labs/0015-dimensionality-reduction-with-sklearn) |
 | [PyTorch: Build a Complete Training Loop](https://www.deep-ml.com/labs/13) | easy | 2026-07-29 | [solution](labs/0013-pytorch-build-a-complete-training-loop) |
+| [Split the Data Honestly and Beat a Baseline](https://www.deep-ml.com/labs/3d26c3f9-cb73-4ab1-bc4d-86cfab2af6d1) | easy | 2026-09-10 | [solution](labs/3d26c3f9-cb73-4ab1-bc4d-86cfab2af6d1-split-the-data-honestly-and-beat-a-baseline) |
 | [Train a Linear Regression Model](https://www.deep-ml.com/labs/18) | easy | 2026-08-10 | [solution](labs/0018-train-a-linear-regression-model) |
+| [Data Preprocessing: Handling Missing Values](https://www.deep-ml.com/labs/11) | medium | 2026-09-10 | [solution](labs/0011-data-preprocessing-handling-missing-values) |
 | [Numpy: Design Your Own Dimensionality Reduction](https://www.deep-ml.com/labs/14) | medium | 2026-07-30 | [solution](labs/0014-numpy-design-your-own-dimensionality-reduction) |
 | [PyTorch: Implement Your Own Gradient Descent Training Step](https://www.deep-ml.com/labs/12) | medium | 2026-07-29 | [solution](labs/0012-pytorch-implement-your-own-gradient-descent-training-step) |
 | [MNIST: Classification Loss (with Gradient)](https://www.deep-ml.com/labs/4) | hard | 2026-07-28 | [solution](labs/0004-mnist-classification-loss-with-gradient) |
