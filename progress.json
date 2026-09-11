@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-18T16:23:45.148Z",
+  "generated_at": "2026-09-18T16:23:47.429Z",
   "items": {
     "problem:148": {
       "kind": "problem",
@@ -3185,6 +3185,97 @@
       "last_pushed_at": "2026-09-10T18:44:42.873Z",
       "language": "python",
       "lines": 18
+    },
+    "lab:23": {
+      "kind": "lab",
+      "id": "23",
+      "title": "Train a Binary Classifier",
+      "difficulty": "easy",
+      "category": "Logistic Regression",
+      "url": "https://www.deep-ml.com/labs/23",
+      "path": "labs/0023-train-a-binary-classifier",
+      "first_solved_at": "2026-09-11T03:18:41.850Z",
+      "last_pushed_at": "2026-09-11T03:18:41.850Z",
+      "language": "python",
+      "lines": 21
+    },
+    "problem:1372": {
+      "kind": "problem",
+      "id": "1372",
+      "title": "Smooth L1 Loss with a Beta Parameter",
+      "difficulty": "easy",
+      "category": "Machine Learning",
+      "url": "https://www.deep-ml.com/problems/1372",
+      "path": "problems/1372-smooth-l1-loss-with-a-beta-parameter",
+      "first_solved_at": "2026-09-11T13:39:46.520Z",
+      "last_pushed_at": "2026-09-11T13:39:46.520Z",
+      "language": "python",
+      "lines": 29
+    },
+    "problem:1361": {
+      "kind": "problem",
+      "id": "1361",
+      "title": "RSE, R-Squared and the F-Statistic",
+      "difficulty": "medium",
+      "category": "Statistics",
+      "url": "https://www.deep-ml.com/problems/1361",
+      "path": "problems/1361-rse-r-squared-and-the-f-statistic",
+      "first_solved_at": "2026-09-11T13:56:46.705Z",
+      "last_pushed_at": "2026-09-11T13:56:46.705Z",
+      "language": "python",
+      "lines": 32
+    },
+    "problem:1285": {
+      "kind": "problem",
+      "id": "1285",
+      "title": "Tensor Puzzle: Linspace from Endpoints",
+      "difficulty": "easy",
+      "category": "Linear Algebra",
+      "url": "https://www.deep-ml.com/problems/1285",
+      "path": "problems/1285-tensor-puzzle-linspace-from-endpoints",
+      "first_solved_at": "2026-09-11T14:13:54.510Z",
+      "last_pushed_at": "2026-09-11T14:13:54.510Z",
+      "language": "python",
+      "lines": 11
+    },
+    "problem:1286": {
+      "kind": "problem",
+      "id": "1286",
+      "title": "Tensor Puzzle: Heaviside Step with Zero-Value",
+      "difficulty": "easy",
+      "category": "Linear Algebra",
+      "url": "https://www.deep-ml.com/problems/1286",
+      "path": "problems/1286-tensor-puzzle-heaviside-step-with-zero-value",
+      "first_solved_at": "2026-09-11T14:20:57.095Z",
+      "last_pushed_at": "2026-09-11T14:20:57.095Z",
+      "language": "python",
+      "lines": 13
+    },
+    "problem:1272": {
+      "kind": "problem",
+      "id": "1272",
+      "title": "Tensor Puzzle: Identity Matrix from Comparisons",
+      "difficulty": "easy",
+      "category": "Linear Algebra",
+      "url": "https://www.deep-ml.com/problems/1272",
+      "path": "problems/1272-tensor-puzzle-identity-matrix-from-comparisons",
+      "first_solved_at": "2026-09-11T14:23:12.812Z",
+      "last_pushed_at": "2026-09-11T14:23:12.812Z",
+      "language": "python",
+      "lines": 8
+    },
+    "problem:1217": {
+      "kind": "problem",
+      "id": "1217",
+      "title": "Compute TPR and FPR from Classifications",
+      "difficulty": "easy",
+      "category": "Machine Learning",
+      "url": "https://www.deep-ml.com/problems/1217",
+      "path": "problems/1217-compute-tpr-and-fpr-from-classifications",
+      "first_solved_at": "2026-09-11T15:41:07.414Z",
+      "last_pushed_at": "2026-09-11T15:41:07.414Z",
+      "language": "python",
+      "lines": 21
     }
   }
 }
