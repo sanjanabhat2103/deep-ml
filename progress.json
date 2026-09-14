@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-18T16:23:49.331Z",
+  "generated_at": "2026-09-18T16:23:50.981Z",
   "items": {
     "problem:148": {
       "kind": "problem",
@@ -3289,6 +3289,123 @@
       "last_pushed_at": "2026-09-12T06:09:23.263Z",
       "language": "python",
       "lines": 22
+    },
+    "problem:1360": {
+      "kind": "problem",
+      "id": "1360",
+      "title": "Coefficient Standard Errors, t-Statistics and p-Values",
+      "difficulty": "hard",
+      "category": "Statistics",
+      "url": "https://www.deep-ml.com/problems/1360",
+      "path": "problems/1360-coefficient-standard-errors-t-statistics-and-p-values",
+      "first_solved_at": "2026-09-14T06:45:25.498Z",
+      "last_pushed_at": "2026-09-14T06:45:25.498Z",
+      "language": "python",
+      "lines": 29
+    },
+    "problem:1228": {
+      "kind": "problem",
+      "id": "1228",
+      "title": "Mean Squared Error from Scratch",
+      "difficulty": "easy",
+      "category": "Pytorch",
+      "url": "https://www.deep-ml.com/problems/1228",
+      "path": "problems/1228-mean-squared-error-from-scratch",
+      "first_solved_at": "2026-09-14T06:49:53.408Z",
+      "last_pushed_at": "2026-09-14T06:49:53.408Z",
+      "language": "python",
+      "lines": 15
+    },
+    "problem:1163": {
+      "kind": "problem",
+      "id": "1163",
+      "title": "Dot Product of Two Sparse Vectors",
+      "difficulty": "medium",
+      "category": "Data Structures",
+      "url": "https://www.deep-ml.com/problems/1163",
+      "path": "problems/1163-dot-product-of-two-sparse-vectors",
+      "first_solved_at": "2026-09-14T06:52:56.593Z",
+      "last_pushed_at": "2026-09-14T06:52:56.593Z",
+      "language": "python",
+      "lines": 2
+    },
+    "problem:1131": {
+      "kind": "problem",
+      "id": "1131",
+      "title": "Clean a Messy Dataset: Dedup, Standardize, Impute",
+      "difficulty": "medium",
+      "category": "Pandas",
+      "url": "https://www.deep-ml.com/problems/1131",
+      "path": "problems/1131-clean-a-messy-dataset-dedup-standardize-impute",
+      "first_solved_at": "2026-09-14T06:58:42.990Z",
+      "last_pushed_at": "2026-09-14T06:58:42.990Z",
+      "language": "python",
+      "lines": 9
+    },
+    "problem:1276": {
+      "kind": "problem",
+      "id": "1276",
+      "title": "Tensor Puzzle: Stack Two Vectors as Rows",
+      "difficulty": "easy",
+      "category": "Linear Algebra",
+      "url": "https://www.deep-ml.com/problems/1276",
+      "path": "problems/1276-tensor-puzzle-stack-two-vectors-as-rows",
+      "first_solved_at": "2026-09-14T07:45:44.254Z",
+      "last_pushed_at": "2026-09-14T07:45:44.254Z",
+      "language": "python",
+      "lines": 5
+    },
+    "problem:1287": {
+      "kind": "problem",
+      "id": "1287",
+      "title": "Tensor Puzzle: Repeat a Vector as Rows",
+      "difficulty": "easy",
+      "category": "Linear Algebra",
+      "url": "https://www.deep-ml.com/problems/1287",
+      "path": "problems/1287-tensor-puzzle-repeat-a-vector-as-rows",
+      "first_solved_at": "2026-09-14T07:47:34.783Z",
+      "last_pushed_at": "2026-09-14T07:47:34.783Z",
+      "language": "python",
+      "lines": 9
+    },
+    "problem:1274": {
+      "kind": "problem",
+      "id": "1274",
+      "title": "Tensor Puzzle: Cumulative Sum via Triangular Matmul",
+      "difficulty": "medium",
+      "category": "Linear Algebra",
+      "url": "https://www.deep-ml.com/problems/1274",
+      "path": "problems/1274-tensor-puzzle-cumulative-sum-via-triangular-matmul",
+      "first_solved_at": "2026-09-14T07:53:24.617Z",
+      "last_pushed_at": "2026-09-14T07:53:24.617Z",
+      "language": "python",
+      "lines": 5
+    },
+    "problem:1273": {
+      "kind": "problem",
+      "id": "1273",
+      "title": "Tensor Puzzle: Upper-Triangular Ones Matrix",
+      "difficulty": "easy",
+      "category": "Linear Algebra",
+      "url": "https://www.deep-ml.com/problems/1273",
+      "path": "problems/1273-tensor-puzzle-upper-triangular-ones-matrix",
+      "first_solved_at": "2026-09-14T08:00:44.773Z",
+      "last_pushed_at": "2026-09-14T08:00:44.773Z",
+      "language": "python",
+      "lines": 10
+    },
+    "problem:1277": {
+      "kind": "problem",
+      "id": "1277",
+      "title": "Tensor Puzzle: Circular Roll by One",
+      "difficulty": "easy",
+      "category": "Linear Algebra",
+      "url": "https://www.deep-ml.com/problems/1277",
+      "path": "problems/1277-tensor-puzzle-circular-roll-by-one",
+      "first_solved_at": "2026-09-14T08:28:25.088Z",
+      "last_pushed_at": "2026-09-14T08:28:25.088Z",
+      "language": "python",
+      "lines": 9
     }
   }
 }

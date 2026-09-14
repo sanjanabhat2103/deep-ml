@@ -4,7 +4,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 
 **Completed:** Calculus (9/9)
 
-**257** solved · 222 problems · 9 labs · 26 math
+**266** solved · 231 problems · 9 labs · 26 math
 
 ![Coverage](./coverage.svg)
 
@@ -107,6 +107,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 | [Linear Regression Using Normal Equation](https://www.deep-ml.com/problems/14) | easy | 2026-07-27 | [solution](problems/0014-linear-regression-using-normal-equation) |
 | [Matrix Determinant & Trace](https://www.deep-ml.com/problems/195) | easy | 2026-07-29 | [solution](problems/0195-matrix-determinant-trace) |
 | [Matrix-Vector Dot Product](https://www.deep-ml.com/problems/1) | easy | 2026-07-24 | [solution](problems/0001-matrix-vector-dot-product) |
+| [Mean Squared Error from Scratch](https://www.deep-ml.com/problems/1228) | easy | 2026-09-14 | [solution](problems/1228-mean-squared-error-from-scratch) |
 | [Min-Max Scaling of Feature Values](https://www.deep-ml.com/problems/112) | easy | 2026-07-29 | [solution](problems/0112-min-max-scaling-of-feature-values) |
 | [Momentum Optimizer](https://www.deep-ml.com/problems/146) | easy | 2026-07-27 | [solution](problems/0146-momentum-optimizer) |
 | [Nesterov Accelerated Gradient Optimizer](https://www.deep-ml.com/problems/150) | easy | 2026-08-27 | [solution](problems/0150-nesterov-accelerated-gradient-optimizer) |
@@ -134,6 +135,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 | [Sort results with ORDER BY](https://www.deep-ml.com/problems/1104) | easy | 2026-08-25 | [solution](problems/1104-sort-results-with-order-by) |
 | [Tanh Logit Soft-Capping](https://www.deep-ml.com/problems/1049) | easy | 2026-08-20 | [solution](problems/1049-tanh-logit-soft-capping) |
 | [Taylor Series Approximation](https://www.deep-ml.com/problems/310) | easy | 2026-07-27 | [solution](problems/0310-taylor-series-approximation) |
+| [Tensor Puzzle: Circular Roll by One](https://www.deep-ml.com/problems/1277) | easy | 2026-09-14 | [solution](problems/1277-tensor-puzzle-circular-roll-by-one) |
 | [Tensor Puzzle: Extract the Diagonal](https://www.deep-ml.com/problems/1271) | easy | 2026-08-25 | [solution](problems/1271-tensor-puzzle-extract-the-diagonal) |
 | [Tensor Puzzle: First-Order Difference](https://www.deep-ml.com/problems/1275) | easy | 2026-08-25 | [solution](problems/1275-tensor-puzzle-first-order-difference) |
 | [Tensor Puzzle: Heaviside Step with Zero-Value](https://www.deep-ml.com/problems/1286) | easy | 2026-09-11 | [solution](problems/1286-tensor-puzzle-heaviside-step-with-zero-value) |
@@ -141,8 +143,11 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 | [Tensor Puzzle: Linspace from Endpoints](https://www.deep-ml.com/problems/1285) | easy | 2026-09-11 | [solution](problems/1285-tensor-puzzle-linspace-from-endpoints) |
 | [Tensor Puzzle: Ones Vector from First Principles](https://www.deep-ml.com/problems/1268) | easy | 2026-08-25 | [solution](problems/1268-tensor-puzzle-ones-vector-from-first-principles) |
 | [Tensor Puzzle: Outer Product via Broadcasting](https://www.deep-ml.com/problems/1270) | easy | 2026-08-20 | [solution](problems/1270-tensor-puzzle-outer-product-via-broadcasting) |
+| [Tensor Puzzle: Repeat a Vector as Rows](https://www.deep-ml.com/problems/1287) | easy | 2026-09-14 | [solution](problems/1287-tensor-puzzle-repeat-a-vector-as-rows) |
 | [Tensor Puzzle: Reverse a Vector](https://www.deep-ml.com/problems/1278) | easy | 2026-08-20 | [solution](problems/1278-tensor-puzzle-reverse-a-vector) |
+| [Tensor Puzzle: Stack Two Vectors as Rows](https://www.deep-ml.com/problems/1276) | easy | 2026-09-14 | [solution](problems/1276-tensor-puzzle-stack-two-vectors-as-rows) |
 | [Tensor Puzzle: Sum a Vector with a Dot Product](https://www.deep-ml.com/problems/1269) | easy | 2026-08-25 | [solution](problems/1269-tensor-puzzle-sum-a-vector-with-a-dot-product) |
+| [Tensor Puzzle: Upper-Triangular Ones Matrix](https://www.deep-ml.com/problems/1273) | easy | 2026-09-14 | [solution](problems/1273-tensor-puzzle-upper-triangular-ones-matrix) |
 | [Thanksgiving Feast Predictor: Softmax for Dish Selection](https://www.deep-ml.com/problems/216) | easy | 2026-08-06 | [solution](problems/0216-thanksgiving-feast-predictor-softmax-for-dish-selection) |
 | [Top-K Largest Elements in a List](https://www.deep-ml.com/problems/1137) | easy | 2026-08-06 | [solution](problems/1137-top-k-largest-elements-in-a-list) |
 | [Transformation Matrix from Basis B to C](https://www.deep-ml.com/problems/27) | easy | 2026-07-29 | [solution](problems/0027-transformation-matrix-from-basis-b-to-c) |
@@ -173,6 +178,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 | [Chi-square Probability Distribution](https://www.deep-ml.com/problems/176) | medium | 2026-07-30 | [solution](problems/0176-chi-square-probability-distribution) |
 | [Cholesky Decomposition](https://www.deep-ml.com/problems/334) | medium | 2026-08-07 | [solution](problems/0334-cholesky-decomposition) |
 | [Classify Critical Points Using Hessian Eigenvalues](https://www.deep-ml.com/problems/311) | medium | 2026-07-27 | [solution](problems/0311-classify-critical-points-using-hessian-eigenvalues) |
+| [Clean a Messy Dataset: Dedup, Standardize, Impute](https://www.deep-ml.com/problems/1131) | medium | 2026-09-14 | [solution](problems/1131-clean-a-messy-dataset-dedup-standardize-impute) |
 | [Compute Covariance from Joint Probability Mass Function](https://www.deep-ml.com/problems/243) | medium | 2026-07-30 | [solution](problems/0243-compute-covariance-from-joint-probability-mass-function) |
 | [Compute Orthonormal Basis for 2D Vectors](https://www.deep-ml.com/problems/117) | medium | 2026-07-29 | [solution](problems/0117-compute-orthonormal-basis-for-2d-vectors) |
 | [Compute the Hessian Matrix](https://www.deep-ml.com/problems/218) | medium | 2026-07-26 | [solution](problems/0218-compute-the-hessian-matrix) |
@@ -182,6 +188,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 | [Confidence Interval for Population Mean](https://www.deep-ml.com/problems/212) | medium | 2026-08-02 | [solution](problems/0212-confidence-interval-for-population-mean) |
 | [Derivative of Cross-Entropy Loss w.r.t. Logits](https://www.deep-ml.com/problems/220) | medium | 2026-07-26 | [solution](problems/0220-derivative-of-cross-entropy-loss-w-r-t-logits) |
 | [Derivative of Softmax](https://www.deep-ml.com/problems/219) | medium | 2026-07-26 | [solution](problems/0219-derivative-of-softmax) |
+| [Dot Product of Two Sparse Vectors](https://www.deep-ml.com/problems/1163) | medium | 2026-09-14 | [solution](problems/1163-dot-product-of-two-sparse-vectors) |
 | [Dummy Classifier Baseline](https://www.deep-ml.com/problems/847) | medium | 2026-09-10 | [solution](problems/0847-dummy-classifier-baseline) |
 | [Dummy Regressor Baseline](https://www.deep-ml.com/problems/848) | medium | 2026-09-10 | [solution](problems/0848-dummy-regressor-baseline) |
 | [Engram Context-Aware Gating](https://www.deep-ml.com/problems/327) | medium | 2026-07-29 | [solution](problems/0327-engram-context-aware-gating) |
@@ -228,7 +235,9 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 | [Solve System of Linear Equations Using Cramer's Rule](https://www.deep-ml.com/problems/119) | medium | 2026-07-29 | [solution](problems/0119-solve-system-of-linear-equations-using-cramer-s-rule) |
 | [StandardScaler Fit and Transform](https://www.deep-ml.com/problems/842) | medium | 2026-09-10 | [solution](problems/0842-standardscaler-fit-and-transform) |
 | [Stochastic Gradient Descent Step for Linear Regression](https://www.deep-ml.com/problems/802) | medium | 2026-09-10 | [solution](problems/0802-stochastic-gradient-descent-step-for-linear-regression) |
+| [Tensor Puzzle: Cumulative Sum via Triangular Matmul](https://www.deep-ml.com/problems/1274) | medium | 2026-09-14 | [solution](problems/1274-tensor-puzzle-cumulative-sum-via-triangular-matmul) |
 | [Truncated SVD Rank-r Approximation of Weight Updates](https://www.deep-ml.com/problems/872) | medium | 2026-08-10 | [solution](problems/0872-truncated-svd-rank-r-approximation-of-weight-updates) |
+| [Coefficient Standard Errors, t-Statistics and p-Values](https://www.deep-ml.com/problems/1360) | hard | 2026-09-14 | [solution](problems/1360-coefficient-standard-errors-t-statistics-and-p-values) |
 | [Determinant of a 4x4 Matrix using Laplace's Expansion (hard)](https://www.deep-ml.com/problems/13) | hard | 2026-07-27 | [solution](problems/0013-determinant-of-a-4x4-matrix-using-laplace-s-expansion-hard) |
 | [Implement the Conjugate Gradient Method for Solving Linear Systems](https://www.deep-ml.com/problems/63) | hard | 2026-08-10 | [solution](problems/0063-implement-the-conjugate-gradient-method-for-solving-linear-systems) |
 | [QR Decomposition](https://www.deep-ml.com/problems/201) | hard | 2026-07-29 | [solution](problems/0201-qr-decomposition) |
