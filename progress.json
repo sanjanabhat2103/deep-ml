@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-17T11:57:28.569Z",
+  "generated_at": "2026-09-17T13:21:49.815Z",
   "items": {
     "problem:148": {
       "kind": "problem",
@@ -1170,6 +1170,19 @@
       "last_pushed_at": "2026-09-17T11:57:27.365Z",
       "language": "python",
       "lines": 19
+    },
+    "problem:1216": {
+      "kind": "problem",
+      "id": "1216",
+      "title": "Binary Search for Value or Closest Index",
+      "difficulty": "medium",
+      "category": "Algorithms",
+      "url": "https://www.deep-ml.com/problems/1216",
+      "path": "problems/1216-binary-search-for-value-or-closest-index",
+      "first_solved_at": "2026-09-17T13:21:49.218Z",
+      "last_pushed_at": "2026-09-17T13:21:49.218Z",
+      "language": "python",
+      "lines": 20
     }
   }
 }

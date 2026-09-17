@@ -4,7 +4,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 
 **Completed:** Calculus (9/9)
 
-**90** solved · 87 problems · 3 labs · 0 math
+**91** solved · 88 problems · 3 labs · 0 math
 
 ![Coverage](./coverage.svg)
 
@@ -57,6 +57,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 | [Adadelta Optimizer](https://www.deep-ml.com/problems/149) | medium | 2026-09-17 | [solution](problems/0149-adadelta-optimizer) |
 | [Adam Optimizer](https://www.deep-ml.com/problems/87) | medium | 2026-09-17 | [solution](problems/0087-adam-optimizer) |
 | [Beta Distribution PDF and Statistics](https://www.deep-ml.com/problems/339) | medium | 2026-07-28 | [solution](problems/0339-beta-distribution-pdf-and-statistics) |
+| [Binary Search for Value or Closest Index](https://www.deep-ml.com/problems/1216) | medium | 2026-09-17 | [solution](problems/1216-binary-search-for-value-or-closest-index) |
 | [Binomial Distribution Probability](https://www.deep-ml.com/problems/79) | medium | 2026-07-29 | [solution](problems/0079-binomial-distribution-probability) |
 | [Birthday Problem Probability](https://www.deep-ml.com/problems/246) | medium | 2026-07-29 | [solution](problems/0246-birthday-problem-probability) |
 | [Calculate Correlation Matrix](https://www.deep-ml.com/problems/37) | medium | 2026-07-29 | [solution](problems/0037-calculate-correlation-matrix) |
