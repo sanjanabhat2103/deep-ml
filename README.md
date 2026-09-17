@@ -4,7 +4,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 
 **Completed:** Calculus (9/9)
 
-**88** solved · 85 problems · 3 labs · 0 math
+**89** solved · 86 problems · 3 labs · 0 math
 
 ![Coverage](./coverage.svg)
 
@@ -77,6 +77,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 | [Hypergeometric Distribution PMF](https://www.deep-ml.com/problems/245) | medium | 2026-07-29 | [solution](problems/0245-hypergeometric-distribution-pmf) |
 | [Implement Gradient Descent Variants with MSE Loss](https://www.deep-ml.com/problems/47) | medium | 2026-07-27 | [solution](problems/0047-implement-gradient-descent-variants-with-mse-loss) |
 | [Implement Reduced Row Echelon Form (RREF) Function](https://www.deep-ml.com/problems/48) | medium | 2026-07-29 | [solution](problems/0048-implement-reduced-row-echelon-form-rref-function) |
+| [Implement the Huber Loss Function](https://www.deep-ml.com/problems/192) | medium | 2026-09-17 | [solution](problems/0192-implement-the-huber-loss-function) |
 | [Implementing Basic Autograd Operations](https://www.deep-ml.com/problems/26) | medium | 2026-07-27 | [solution](problems/0026-implementing-basic-autograd-operations) |
 | [Implementing ROUGE Score](https://www.deep-ml.com/problems/152) | medium | 2026-09-17 | [solution](problems/0152-implementing-rouge-score) |
 | [Jacobian Matrix Calculation](https://www.deep-ml.com/problems/202) | medium | 2026-07-26 | [solution](problems/0202-jacobian-matrix-calculation) |
