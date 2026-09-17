@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-17T10:17:15.653Z",
+  "generated_at": "2026-09-17T10:31:13.671Z",
   "items": {
     "problem:148": {
       "kind": "problem",
@@ -13,6 +13,19 @@
       "last_pushed_at": "2026-09-17T10:17:12.549Z",
       "language": "python",
       "lines": 25
+    },
+    "problem:1426": {
+      "kind": "problem",
+      "id": "1426",
+      "title": "Permutation Test for a Difference in Means",
+      "difficulty": "easy",
+      "category": "Statistics",
+      "url": "https://www.deep-ml.com/problems/1426",
+      "path": "problems/1426-permutation-test-for-a-difference-in-means",
+      "first_solved_at": "2026-09-17T10:31:12.848Z",
+      "last_pushed_at": "2026-09-17T10:31:12.848Z",
+      "language": "python",
+      "lines": 34
     }
   }
 }
