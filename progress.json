@@ -1,0 +1,18 @@
+{
+  "generated_at": "2026-09-17T10:17:15.653Z",
+  "items": {
+    "problem:148": {
+      "kind": "problem",
+      "id": "148",
+      "title": "Adamax Optimizer",
+      "difficulty": "easy",
+      "category": "Deep Learning",
+      "url": "https://www.deep-ml.com/problems/148",
+      "path": "problems/0148-adamax-optimizer",
+      "first_solved_at": "2026-09-17T10:17:12.549Z",
+      "last_pushed_at": "2026-09-17T10:17:12.549Z",
+      "language": "python",
+      "lines": 25
+    }
+  }
+}
