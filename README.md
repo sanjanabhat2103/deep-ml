@@ -4,7 +4,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 
 **Completed:** Calculus (9/9)
 
-**83** solved · 80 problems · 3 labs · 0 math
+**84** solved · 81 problems · 3 labs · 0 math
 
 ![Coverage](./coverage.svg)
 
@@ -53,6 +53,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 | [Transpose of a Matrix](https://www.deep-ml.com/problems/2) | easy | 2026-07-24 | [solution](problems/0002-transpose-of-a-matrix) |
 | [Vector Element-wise Sum](https://www.deep-ml.com/problems/121) | easy | 2026-07-29 | [solution](problems/0121-vector-element-wise-sum) |
 | [Vector Norms (L1/L2/L-inf) and the Frobenius Norm](https://www.deep-ml.com/problems/328) | easy | 2026-07-29 | [solution](problems/0328-vector-norms-l1-l2-l-inf-and-the-frobenius-norm) |
+| [Adam Optimizer](https://www.deep-ml.com/problems/87) | medium | 2026-09-17 | [solution](problems/0087-adam-optimizer) |
 | [Beta Distribution PDF and Statistics](https://www.deep-ml.com/problems/339) | medium | 2026-07-28 | [solution](problems/0339-beta-distribution-pdf-and-statistics) |
 | [Binomial Distribution Probability](https://www.deep-ml.com/problems/79) | medium | 2026-07-29 | [solution](problems/0079-binomial-distribution-probability) |
 | [Birthday Problem Probability](https://www.deep-ml.com/problems/246) | medium | 2026-07-29 | [solution](problems/0246-birthday-problem-probability) |
