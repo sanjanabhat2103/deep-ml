@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-18T16:18:25.278Z",
+  "generated_at": "2026-09-18T16:19:55.315Z",
   "items": {
     "problem:148": {
       "kind": "problem",
@@ -1906,6 +1906,19 @@
       "path": "math/0037-taylor-expansions-and-local-quadratic-models",
       "first_solved_at": "2026-08-05T19:05:17.528Z",
       "last_pushed_at": "2026-08-05T19:05:17.528Z"
+    },
+    "problem:880": {
+      "kind": "problem",
+      "id": "880",
+      "title": "Create a Float Tensor from a Python List",
+      "difficulty": "easy",
+      "category": "Pytorch",
+      "url": "https://www.deep-ml.com/problems/880",
+      "path": "problems/0880-create-a-float-tensor-from-a-python-list",
+      "first_solved_at": "2026-09-18T16:19:54.605Z",
+      "last_pushed_at": "2026-09-18T16:19:54.605Z",
+      "language": "python",
+      "lines": 4
     }
   }
 }
