@@ -4,7 +4,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 
 **Completed:** Calculus (9/9)
 
-**306** solved · 245 problems · 9 labs · 52 math
+**307** solved · 246 problems · 9 labs · 52 math
 
 ![Coverage](./coverage.svg)
 
@@ -125,6 +125,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 | [Phi Transformation for Polynomial Features](https://www.deep-ml.com/problems/84) | easy | 2026-08-06 | [solution](problems/0084-phi-transformation-for-polynomial-features) |
 | [Poisson Distribution Probability Calculator](https://www.deep-ml.com/problems/81) | easy | 2026-07-29 | [solution](problems/0081-poisson-distribution-probability-calculator) |
 | [Quality Filtering with Rejection Sampling](https://www.deep-ml.com/problems/508) | easy | 2026-09-19 | [solution](problems/0508-quality-filtering-with-rejection-sampling) |
+| [Random Rotation Matrix and a Rotation Layer](https://www.deep-ml.com/problems/1190) | easy | 2026-09-19 | [solution](problems/1190-random-rotation-matrix-and-a-rotation-layer) |
 | [Random Train/Validation/Test Split with Shuffling](https://www.deep-ml.com/problems/1058) | easy | 2026-09-10 | [solution](problems/1058-random-train-validation-test-split-with-shuffling) |
 | [ReLU with JAX Arrays](https://www.deep-ml.com/problems/1323) | easy | 2026-08-20 | [solution](problems/1323-relu-with-jax-arrays) |
 | [Remove duplicates with DISTINCT](https://www.deep-ml.com/problems/1105) | easy | 2026-08-25 | [solution](problems/1105-remove-duplicates-with-distinct) |
