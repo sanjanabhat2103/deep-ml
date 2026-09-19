@@ -4,7 +4,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 
 **Completed:** Calculus (9/9)
 
-**302** solved · 241 problems · 9 labs · 52 math
+**303** solved · 242 problems · 9 labs · 52 math
 
 ![Coverage](./coverage.svg)
 
@@ -158,6 +158,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 | [Tensor Puzzle: Sum a Vector with a Dot Product](https://www.deep-ml.com/problems/1269) | easy | 2026-08-25 | [solution](problems/1269-tensor-puzzle-sum-a-vector-with-a-dot-product) |
 | [Tensor Puzzle: Upper-Triangular Ones Matrix](https://www.deep-ml.com/problems/1273) | easy | 2026-09-14 | [solution](problems/1273-tensor-puzzle-upper-triangular-ones-matrix) |
 | [Thanksgiving Feast Predictor: Softmax for Dish Selection](https://www.deep-ml.com/problems/216) | easy | 2026-08-06 | [solution](problems/0216-thanksgiving-feast-predictor-softmax-for-dish-selection) |
+| [Top Quartile Reward Score Filter](https://www.deep-ml.com/problems/778) | easy | 2026-09-19 | [solution](problems/0778-top-quartile-reward-score-filter) |
 | [Top-K Largest Elements in a List](https://www.deep-ml.com/problems/1137) | easy | 2026-08-06 | [solution](problems/1137-top-k-largest-elements-in-a-list) |
 | [Transformation Matrix from Basis B to C](https://www.deep-ml.com/problems/27) | easy | 2026-07-29 | [solution](problems/0027-transformation-matrix-from-basis-b-to-c) |
 | [Transpose of a Matrix](https://www.deep-ml.com/problems/2) | easy | 2026-07-24 | [solution](problems/0002-transpose-of-a-matrix) |
