@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-19T17:57:31.826Z",
+  "generated_at": "2026-09-19T17:59:36.597Z",
   "items": {
     "problem:148": {
       "kind": "problem",
@@ -3848,6 +3848,19 @@
       "last_pushed_at": "2026-09-19T17:57:30.787Z",
       "language": "python",
       "lines": 8
+    },
+    "problem:891": {
+      "kind": "problem",
+      "id": "891",
+      "title": "Add a Bias Vector to a Batch with Tinygrad Broadcasting",
+      "difficulty": "easy",
+      "category": "Tinygrad",
+      "url": "https://www.deep-ml.com/problems/891",
+      "path": "problems/0891-add-a-bias-vector-to-a-batch-with-tinygrad-broadcasting",
+      "first_solved_at": "2026-09-19T17:59:35.995Z",
+      "last_pushed_at": "2026-09-19T17:59:35.995Z",
+      "language": "python",
+      "lines": 4
     }
   }
 }
