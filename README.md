@@ -4,7 +4,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 
 **Completed:** Calculus (9/9)
 
-**309** solved · 248 problems · 9 labs · 52 math
+**310** solved · 249 problems · 9 labs · 52 math
 
 ![Coverage](./coverage.svg)
 
@@ -156,6 +156,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 | [Tensor Puzzle: Linspace from Endpoints](https://www.deep-ml.com/problems/1285) | easy | 2026-09-11 | [solution](problems/1285-tensor-puzzle-linspace-from-endpoints) |
 | [Tensor Puzzle: Ones Vector from First Principles](https://www.deep-ml.com/problems/1268) | easy | 2026-08-25 | [solution](problems/1268-tensor-puzzle-ones-vector-from-first-principles) |
 | [Tensor Puzzle: Outer Product via Broadcasting](https://www.deep-ml.com/problems/1270) | easy | 2026-08-20 | [solution](problems/1270-tensor-puzzle-outer-product-via-broadcasting) |
+| [Tensor Puzzle: Pad or Truncate a Vector to Length j](https://www.deep-ml.com/problems/1280) | easy | 2026-09-19 | [solution](problems/1280-tensor-puzzle-pad-or-truncate-a-vector-to-length-j) |
 | [Tensor Puzzle: Repeat a Vector as Rows](https://www.deep-ml.com/problems/1287) | easy | 2026-09-14 | [solution](problems/1287-tensor-puzzle-repeat-a-vector-as-rows) |
 | [Tensor Puzzle: Reverse a Vector](https://www.deep-ml.com/problems/1278) | easy | 2026-08-20 | [solution](problems/1278-tensor-puzzle-reverse-a-vector) |
 | [Tensor Puzzle: Stack Two Vectors as Rows](https://www.deep-ml.com/problems/1276) | easy | 2026-09-14 | [solution](problems/1276-tensor-puzzle-stack-two-vectors-as-rows) |
