@@ -4,7 +4,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 
 **Completed:** Calculus (9/9)
 
-**299** solved · 238 problems · 9 labs · 52 math
+**300** solved · 239 problems · 9 labs · 52 math
 
 ![Coverage](./coverage.svg)
 
@@ -209,6 +209,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 | [Gradient Clipping by Global Norm](https://www.deep-ml.com/problems/197) | medium | 2026-09-17 | [solution](problems/0197-gradient-clipping-by-global-norm) |
 | [Handle Missing Data with Imputation](https://www.deep-ml.com/problems/354) | medium | 2026-07-29 | [solution](problems/0354-handle-missing-data-with-imputation) |
 | [Hypergeometric Distribution PMF](https://www.deep-ml.com/problems/245) | medium | 2026-07-29 | [solution](problems/0245-hypergeometric-distribution-pmf) |
+| [Implement AdamW Optimizer Step](https://www.deep-ml.com/problems/169) | medium | 2026-09-19 | [solution](problems/0169-implement-adamw-optimizer-step) |
 | [Implement Gradient Descent Variants with MSE Loss](https://www.deep-ml.com/problems/47) | medium | 2026-07-27 | [solution](problems/0047-implement-gradient-descent-variants-with-mse-loss) |
 | [Implement Reduced Row Echelon Form (RREF) Function](https://www.deep-ml.com/problems/48) | medium | 2026-07-29 | [solution](problems/0048-implement-reduced-row-echelon-form-rref-function) |
 | [Implement the Huber Loss Function](https://www.deep-ml.com/problems/192) | medium | 2026-09-17 | [solution](problems/0192-implement-the-huber-loss-function) |
