@@ -4,7 +4,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 
 **Completed:** Calculus (9/9)
 
-**297** solved · 236 problems · 9 labs · 52 math
+**298** solved · 237 problems · 9 labs · 52 math
 
 ![Coverage](./coverage.svg)
 
@@ -54,6 +54,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 | [Count rows per group](https://www.deep-ml.com/problems/1107) | easy | 2026-08-25 | [solution](problems/1107-count-rows-per-group) |
 | [Count Words Appearing Exactly Once in Each of Two Lists](https://www.deep-ml.com/problems/1141) | easy | 2026-08-06 | [solution](problems/1141-count-words-appearing-exactly-once-in-each-of-two-lists) |
 | [Create a Float Tensor from a Python List](https://www.deep-ml.com/problems/880) | easy | 2026-09-18 | [solution](problems/0880-create-a-float-tensor-from-a-python-list) |
+| [Create a Float Tensor with Tinygrad](https://www.deep-ml.com/problems/889) | easy | 2026-09-19 | [solution](problems/0889-create-a-float-tensor-with-tinygrad) |
 | [Demonstrate Law of Large Numbers with Sampling](https://www.deep-ml.com/problems/342) | easy | 2026-07-28 | [solution](problems/0342-demonstrate-law-of-large-numbers-with-sampling) |
 | [Derivative of a Polynomial](https://www.deep-ml.com/problems/116) | easy | 2026-07-25 | [solution](problems/0116-derivative-of-a-polynomial) |
 | [Derivatives of Activation Functions](https://www.deep-ml.com/problems/217) | easy | 2026-07-26 | [solution](problems/0217-derivatives-of-activation-functions) |
