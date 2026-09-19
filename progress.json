@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-19T17:59:36.597Z",
+  "generated_at": "2026-09-19T18:00:10.173Z",
   "items": {
     "problem:148": {
       "kind": "problem",
@@ -3859,6 +3859,19 @@
       "path": "problems/0891-add-a-bias-vector-to-a-batch-with-tinygrad-broadcasting",
       "first_solved_at": "2026-09-19T17:59:35.995Z",
       "last_pushed_at": "2026-09-19T17:59:35.995Z",
+      "language": "python",
+      "lines": 4
+    },
+    "problem:892": {
+      "kind": "problem",
+      "id": "892",
+      "title": "Implement a Linear Layer Forward Pass in Tinygrad",
+      "difficulty": "easy",
+      "category": "Tinygrad",
+      "url": "https://www.deep-ml.com/problems/892",
+      "path": "problems/0892-implement-a-linear-layer-forward-pass-in-tinygrad",
+      "first_solved_at": "2026-09-19T18:00:09.493Z",
+      "last_pushed_at": "2026-09-19T18:00:09.493Z",
       "language": "python",
       "lines": 4
     }

@@ -4,7 +4,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 
 **Completed:** Calculus (9/9)
 
-**305** solved · 244 problems · 9 labs · 52 math
+**306** solved · 245 problems · 9 labs · 52 math
 
 ![Coverage](./coverage.svg)
 
@@ -76,6 +76,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 | [Generate Normal Samples and Compute Histogram Counts](https://www.deep-ml.com/problems/1130) | easy | 2026-07-28 | [solution](problems/1130-generate-normal-samples-and-compute-histogram-counts) |
 | [Gradient Direction and Magnitude](https://www.deep-ml.com/problems/308) | easy | 2026-07-26 | [solution](problems/0308-gradient-direction-and-magnitude) |
 | [Immutable Arrays: Functional Updates with .at](https://www.deep-ml.com/problems/1324) | easy | 2026-08-24 | [solution](problems/1324-immutable-arrays-functional-updates-with-at) |
+| [Implement a Linear Layer Forward Pass in Tinygrad](https://www.deep-ml.com/problems/892) | easy | 2026-09-19 | [solution](problems/0892-implement-a-linear-layer-forward-pass-in-tinygrad) |
 | [Implement a Linear Layer Forward Pass with Matrix Multiplication](https://www.deep-ml.com/problems/883) | easy | 2026-09-18 | [solution](problems/0883-implement-a-linear-layer-forward-pass-with-matrix-multiplication) |
 | [Implement Binary Cross-Entropy Loss](https://www.deep-ml.com/problems/263) | easy | 2026-08-20 | [solution](problems/0263-implement-binary-cross-entropy-loss) |
 | [Implement Compressed Row Sparse Matrix (CSR) Format Conversion](https://www.deep-ml.com/problems/65) | easy | 2026-08-13 | [solution](problems/0065-implement-compressed-row-sparse-matrix-csr-format-conversion) |
