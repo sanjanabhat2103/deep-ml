@@ -4,7 +4,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 
 **Completed:** Calculus (9/9)
 
-**317** solved · 253 problems · 9 labs · 55 math
+**318** solved · 253 problems · 9 labs · 56 math
 
 ![Coverage](./coverage.svg)
 
@@ -301,6 +301,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 | [Bayes' Theorem](https://www.deep-ml.com/math-problems/20) | medium | 2026-09-18 | [solution](math/0020-bayes-theorem) |
 | [Bias–Variance Decomposition](https://www.deep-ml.com/math-problems/39) | medium | 2026-08-06 | [solution](math/0039-bias-variance-decomposition) |
 | [Bradley-Terry Preference Model](https://www.deep-ml.com/math-problems/51) | medium | 2026-08-12 | [solution](math/0051-bradley-terry-preference-model) |
+| [Classification Trees: Gini, Entropy and Information Gain](https://www.deep-ml.com/math-problems/113) | medium | 2026-09-20 | [solution](math/0113-classification-trees-gini-entropy-and-information-gain) |
 | [Common Distributions I: Bernoulli, Binomial, Uniform](https://www.deep-ml.com/math-problems/21) | medium | 2026-09-18 | [solution](math/0021-common-distributions-i-bernoulli-binomial-uniform) |
 | [Common Distributions II: Normal, Poisson, Exponential](https://www.deep-ml.com/math-problems/22) | medium | 2026-09-18 | [solution](math/0022-common-distributions-ii-normal-poisson-exponential) |
 | [Covariance and Correlation](https://www.deep-ml.com/math-problems/17) | medium | 2026-09-18 | [solution](math/0017-covariance-and-correlation) |
