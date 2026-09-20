@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-20T08:00:35.839Z",
+  "generated_at": "2026-09-20T08:01:59.785Z",
   "items": {
     "problem:148": {
       "kind": "problem",
@@ -4022,6 +4022,17 @@
       "path": "math/0113-classification-trees-gini-entropy-and-information-gain",
       "first_solved_at": "2026-09-20T08:00:35.207Z",
       "last_pushed_at": "2026-09-20T08:00:35.207Z"
+    },
+    "math:95": {
+      "kind": "math",
+      "id": "95",
+      "title": "Basis Functions and Degrees of Freedom",
+      "difficulty": "medium",
+      "category": "Statistical Modeling",
+      "url": "https://www.deep-ml.com/math-problems/95",
+      "path": "math/0095-basis-functions-and-degrees-of-freedom",
+      "first_solved_at": "2026-09-20T08:01:59.065Z",
+      "last_pushed_at": "2026-09-20T08:01:59.065Z"
     }
   }
 }
