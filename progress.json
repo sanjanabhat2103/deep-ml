@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-20T07:54:21.639Z",
+  "generated_at": "2026-09-20T07:56:26.177Z",
   "items": {
     "problem:148": {
       "kind": "problem",
@@ -4000,6 +4000,17 @@
       "path": "math/0094-ridge-vs-lasso-constraint-geometry-and-soft-thresholding",
       "first_solved_at": "2026-09-20T07:54:21.039Z",
       "last_pushed_at": "2026-09-20T07:54:21.039Z"
+    },
+    "math:125": {
+      "kind": "math",
+      "id": "125",
+      "title": "Effective Rank and the Entropy of a Spectrum",
+      "difficulty": "medium",
+      "category": "Deep Learning Theory",
+      "url": "https://www.deep-ml.com/math-problems/125",
+      "path": "math/0125-effective-rank-and-the-entropy-of-a-spectrum",
+      "first_solved_at": "2026-09-20T07:56:25.429Z",
+      "last_pushed_at": "2026-09-20T07:56:25.429Z"
     }
   }
 }

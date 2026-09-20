@@ -4,7 +4,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 
 **Completed:** Calculus (9/9)
 
-**316** solved · 253 problems · 9 labs · 54 math
+**317** solved · 253 problems · 9 labs · 55 math
 
 ![Coverage](./coverage.svg)
 
@@ -305,6 +305,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 | [Common Distributions II: Normal, Poisson, Exponential](https://www.deep-ml.com/math-problems/22) | medium | 2026-09-18 | [solution](math/0022-common-distributions-ii-normal-poisson-exponential) |
 | [Covariance and Correlation](https://www.deep-ml.com/math-problems/17) | medium | 2026-09-18 | [solution](math/0017-covariance-and-correlation) |
 | [Determinants and Trace](https://www.deep-ml.com/math-problems/11) | medium | 2026-09-18 | [solution](math/0011-determinants-and-trace) |
+| [Effective Rank and the Entropy of a Spectrum](https://www.deep-ml.com/math-problems/125) | medium | 2026-09-20 | [solution](math/0125-effective-rank-and-the-entropy-of-a-spectrum) |
 | [Gram–Schmidt and Orthonormal Bases](https://www.deep-ml.com/math-problems/47) | medium | 2026-08-06 | [solution](math/0047-gram-schmidt-and-orthonormal-bases) |
 | [Information Theory: Entropy](https://www.deep-ml.com/math-problems/24) | medium | 2026-09-18 | [solution](math/0024-information-theory-entropy) |
 | [Inverse and Rank](https://www.deep-ml.com/math-problems/12) | medium | 2026-09-18 | [solution](math/0012-inverse-and-rank) |
