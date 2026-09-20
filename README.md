@@ -4,7 +4,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 
 **Completed:** Calculus (9/9)
 
-**310** solved · 249 problems · 9 labs · 52 math
+**311** solved · 250 problems · 9 labs · 52 math
 
 ![Coverage](./coverage.svg)
 
@@ -206,6 +206,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 | [Dot Product of Two Sparse Vectors](https://www.deep-ml.com/problems/1163) | medium | 2026-09-14 | [solution](problems/1163-dot-product-of-two-sparse-vectors) |
 | [Dummy Classifier Baseline](https://www.deep-ml.com/problems/847) | medium | 2026-09-10 | [solution](problems/0847-dummy-classifier-baseline) |
 | [Dummy Regressor Baseline](https://www.deep-ml.com/problems/848) | medium | 2026-09-10 | [solution](problems/0848-dummy-regressor-baseline) |
+| [Effective Rank of a Representation Matrix](https://www.deep-ml.com/problems/1376) | medium | 2026-09-20 | [solution](problems/1376-effective-rank-of-a-representation-matrix) |
 | [Engram Context-Aware Gating](https://www.deep-ml.com/problems/327) | medium | 2026-07-29 | [solution](problems/0327-engram-context-aware-gating) |
 | [Entropy & Cross-Entropy](https://www.deep-ml.com/problems/205) | medium | 2026-07-30 | [solution](problems/0205-entropy-cross-entropy) |
 | [Find Captain Redbeard's Hidden Treasure](https://www.deep-ml.com/problems/127) | medium | 2026-07-27 | [solution](problems/0127-find-captain-redbeard-s-hidden-treasure) |

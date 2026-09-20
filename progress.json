@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-19T18:16:35.856Z",
+  "generated_at": "2026-09-20T06:24:21.573Z",
   "items": {
     "problem:148": {
       "kind": "problem",
@@ -3926,6 +3926,19 @@
       "last_pushed_at": "2026-09-19T18:16:35.149Z",
       "language": "python",
       "lines": 11
+    },
+    "problem:1376": {
+      "kind": "problem",
+      "id": "1376",
+      "title": "Effective Rank of a Representation Matrix",
+      "difficulty": "medium",
+      "category": "Linear Algebra",
+      "url": "https://www.deep-ml.com/problems/1376",
+      "path": "problems/1376-effective-rank-of-a-representation-matrix",
+      "first_solved_at": "2026-09-20T06:24:20.822Z",
+      "last_pushed_at": "2026-09-20T06:24:20.822Z",
+      "language": "python",
+      "lines": 20
     }
   }
 }
