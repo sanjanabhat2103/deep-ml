@@ -4,7 +4,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 
 **Completed:** Calculus (9/9)
 
-**319** solved · 253 problems · 9 labs · 57 math
+**320** solved · 253 problems · 9 labs · 58 math
 
 ![Coverage](./coverage.svg)
 
@@ -295,6 +295,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 | [Matrix Basics](https://www.deep-ml.com/math-problems/9) | easy | 2026-09-18 | [solution](math/0009-matrix-basics) |
 | [ML Workflow Basics](https://www.deep-ml.com/math-problems/30) | easy | 2026-08-05 | [solution](math/0030-ml-workflow-basics) |
 | [Model Selection: CV, AIC, and BIC](https://www.deep-ml.com/math-problems/43) | easy | 2026-08-06 | [solution](math/0043-model-selection-cv-aic-and-bic) |
+| [Precision and Recall at a Threshold](https://www.deep-ml.com/math-problems/127) | easy | 2026-09-20 | [solution](math/0127-precision-and-recall-at-a-threshold) |
 | [Probability Fundamentals](https://www.deep-ml.com/math-problems/19) | easy | 2026-09-18 | [solution](math/0019-probability-fundamentals) |
 | [Vector Operations](https://www.deep-ml.com/math-problems/7) | easy | 2026-09-18 | [solution](math/0007-vector-operations) |
 | [Backpropagation and the Chain Rule](https://www.deep-ml.com/math-problems/4) | medium | 2026-09-18 | [solution](math/0004-backpropagation-and-the-chain-rule) |
