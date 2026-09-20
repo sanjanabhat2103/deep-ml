@@ -4,7 +4,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 
 **Completed:** Calculus (9/9)
 
-**311** solved · 250 problems · 9 labs · 52 math
+**312** solved · 251 problems · 9 labs · 52 math
 
 ![Coverage](./coverage.svg)
 
@@ -36,6 +36,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 | [Calculate Jaccard Index for Binary Classification](https://www.deep-ml.com/problems/72) | easy | 2026-08-05 | [solution](problems/0072-calculate-jaccard-index-for-binary-classification) |
 | [Calculate Mean Absolute Error (MAE)](https://www.deep-ml.com/problems/93) | easy | 2026-08-05 | [solution](problems/0093-calculate-mean-absolute-error-mae) |
 | [Calculate Mean by Row or Column](https://www.deep-ml.com/problems/4) | easy | 2026-07-24 | [solution](problems/0004-calculate-mean-by-row-or-column) |
+| [Calculate Model Inference Statistics for Monitoring](https://www.deep-ml.com/problems/248) | easy | 2026-09-20 | [solution](problems/0248-calculate-model-inference-statistics-for-monitoring) |
 | [Calculate P50/P95/P99 Latency Percentiles](https://www.deep-ml.com/problems/293) | easy | 2026-07-30 | [solution](problems/0293-calculate-p50-p95-p99-latency-percentiles) |
 | [Calculate Portfolio Variance](https://www.deep-ml.com/problems/183) | easy | 2026-08-07 | [solution](problems/0183-calculate-portfolio-variance) |
 | [Calculate R-squared for Regression Analysis](https://www.deep-ml.com/problems/69) | easy | 2026-08-05 | [solution](problems/0069-calculate-r-squared-for-regression-analysis) |
