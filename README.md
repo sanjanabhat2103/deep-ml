@@ -4,7 +4,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 
 **Completed:** Calculus (9/9)
 
-**315** solved · 253 problems · 9 labs · 53 math
+**316** solved · 253 problems · 9 labs · 54 math
 
 ![Coverage](./coverage.svg)
 
@@ -339,6 +339,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 | [Maximum Likelihood and MAP](https://www.deep-ml.com/math-problems/26) | hard | 2026-09-18 | [solution](math/0026-maximum-likelihood-and-map) |
 | [Moment-Generating Functions and a Central Limit Theorem Sketch](https://www.deep-ml.com/math-problems/148) | hard | 2026-09-20 | [solution](math/0148-moment-generating-functions-and-a-central-limit-theorem-sketch) |
 | [Probabilistic Models](https://www.deep-ml.com/math-problems/29) | hard | 2026-08-03 | [solution](math/0029-probabilistic-models) |
+| [Ridge vs Lasso: Constraint Geometry and Soft-Thresholding](https://www.deep-ml.com/math-problems/94) | hard | 2026-09-20 | [solution](math/0094-ridge-vs-lasso-constraint-geometry-and-soft-thresholding) |
 
 ---
 

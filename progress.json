@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-20T07:51:44.503Z",
+  "generated_at": "2026-09-20T07:54:21.639Z",
   "items": {
     "problem:148": {
       "kind": "problem",
@@ -3989,6 +3989,17 @@
       "path": "math/0148-moment-generating-functions-and-a-central-limit-theorem-sketch",
       "first_solved_at": "2026-09-20T07:51:43.736Z",
       "last_pushed_at": "2026-09-20T07:51:43.736Z"
+    },
+    "math:94": {
+      "kind": "math",
+      "id": "94",
+      "title": "Ridge vs Lasso: Constraint Geometry and Soft-Thresholding",
+      "difficulty": "hard",
+      "category": "Statistical Modeling",
+      "url": "https://www.deep-ml.com/math-problems/94",
+      "path": "math/0094-ridge-vs-lasso-constraint-geometry-and-soft-thresholding",
+      "first_solved_at": "2026-09-20T07:54:21.039Z",
+      "last_pushed_at": "2026-09-20T07:54:21.039Z"
     }
   }
 }
