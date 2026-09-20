@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-20T09:17:14.240Z",
+  "generated_at": "2026-09-20T09:23:45.432Z",
   "items": {
     "problem:148": {
       "kind": "problem",
@@ -4044,6 +4044,17 @@
       "path": "math/0127-precision-and-recall-at-a-threshold",
       "first_solved_at": "2026-09-20T09:17:13.599Z",
       "last_pushed_at": "2026-09-20T09:17:13.599Z"
+    },
+    "math:106": {
+      "kind": "math",
+      "id": "106",
+      "title": "Naive Bayes and the Conditional Independence Assumption",
+      "difficulty": "medium",
+      "category": "Statistical Modeling",
+      "url": "https://www.deep-ml.com/math-problems/106",
+      "path": "math/0106-naive-bayes-and-the-conditional-independence-assumption",
+      "first_solved_at": "2026-09-20T09:23:44.773Z",
+      "last_pushed_at": "2026-09-20T09:23:44.773Z"
     }
   }
 }

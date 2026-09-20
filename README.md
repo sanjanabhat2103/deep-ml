@@ -4,7 +4,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 
 **Completed:** Calculus (9/9)
 
-**320** solved · 253 problems · 9 labs · 58 math
+**321** solved · 253 problems · 9 labs · 59 math
 
 ![Coverage](./coverage.svg)
 
@@ -321,6 +321,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 | [Matrix Multiplication](https://www.deep-ml.com/math-problems/10) | medium | 2026-09-18 | [solution](math/0010-matrix-multiplication) |
 | [Multivariate Calculus](https://www.deep-ml.com/math-problems/2) | medium | 2026-09-18 | [solution](math/0002-multivariate-calculus) |
 | [Multivariate Gaussians](https://www.deep-ml.com/math-problems/36) | medium | 2026-08-06 | [solution](math/0036-multivariate-gaussians) |
+| [Naive Bayes and the Conditional Independence Assumption](https://www.deep-ml.com/math-problems/106) | medium | 2026-09-20 | [solution](math/0106-naive-bayes-and-the-conditional-independence-assumption) |
 | [Neural Network Derivatives](https://www.deep-ml.com/math-problems/3) | medium | 2026-09-18 | [solution](math/0003-neural-network-derivatives) |
 | [Optimization: Convexity and Critical Points](https://www.deep-ml.com/math-problems/6) | medium | 2026-09-18 | [solution](math/0006-optimization-convexity-and-critical-points) |
 | [Orthogonality and Projections](https://www.deep-ml.com/math-problems/14) | medium | 2026-09-18 | [solution](math/0014-orthogonality-and-projections) |
