@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-20T09:23:45.432Z",
+  "generated_at": "2026-09-21T08:58:53.196Z",
   "items": {
     "problem:148": {
       "kind": "problem",
@@ -4055,6 +4055,19 @@
       "path": "math/0106-naive-bayes-and-the-conditional-independence-assumption",
       "first_solved_at": "2026-09-20T09:23:44.773Z",
       "last_pushed_at": "2026-09-20T09:23:44.773Z"
+    },
+    "problem:320": {
+      "kind": "problem",
+      "id": "320",
+      "title": "Calculate Perplexity for Language Models",
+      "difficulty": "easy",
+      "category": "NLP",
+      "url": "https://www.deep-ml.com/problems/320",
+      "path": "problems/0320-calculate-perplexity-for-language-models",
+      "first_solved_at": "2026-09-21T08:58:52.406Z",
+      "last_pushed_at": "2026-09-21T08:58:52.406Z",
+      "language": "python",
+      "lines": 18
     }
   }
 }
