@@ -4,7 +4,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 
 **Completed:** Calculus (9/9)
 
-**322** solved · 254 problems · 9 labs · 59 math
+**323** solved · 255 problems · 9 labs · 59 math
 
 ![Coverage](./coverage.svg)
 
@@ -184,6 +184,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 | [Binary Search for Value or Closest Index](https://www.deep-ml.com/problems/1216) | medium | 2026-09-17 | [solution](problems/1216-binary-search-for-value-or-closest-index) |
 | [Binomial Distribution Probability](https://www.deep-ml.com/problems/79) | medium | 2026-07-29 | [solution](problems/0079-binomial-distribution-probability) |
 | [Birthday Problem Probability](https://www.deep-ml.com/problems/246) | medium | 2026-07-29 | [solution](problems/0246-birthday-problem-probability) |
+| [Calculate BIC/AIC for Model Selection](https://www.deep-ml.com/problems/368) | medium | 2026-09-21 | [solution](problems/0368-calculate-bic-aic-for-model-selection) |
 | [Calculate Correlation Matrix](https://www.deep-ml.com/problems/37) | medium | 2026-07-29 | [solution](problems/0037-calculate-correlation-matrix) |
 | [Calculate Eigenvalues of a Matrix](https://www.deep-ml.com/problems/6) | medium | 2026-07-24 | [solution](problems/0006-calculate-eigenvalues-of-a-matrix) |
 | [Calculate Explained Variance Ratio for PCA](https://www.deep-ml.com/problems/350) | medium | 2026-08-20 | [solution](problems/0350-calculate-explained-variance-ratio-for-pca) |
