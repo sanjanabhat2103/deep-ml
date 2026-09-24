@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-24T14:38:39.404Z",
+  "generated_at": "2026-09-24T15:20:31.922Z",
   "items": {
     "problem:148": {
       "kind": "problem",
@@ -4168,6 +4168,19 @@
       "path": "math/0141-gradient-of-a-weight-shared-across-passes",
       "first_solved_at": "2026-09-24T14:38:38.636Z",
       "last_pushed_at": "2026-09-24T14:38:38.636Z"
+    },
+    "problem:129": {
+      "kind": "problem",
+      "id": "129",
+      "title": "Calculate Unigram Probability from Corpus",
+      "difficulty": "easy",
+      "category": "NLP",
+      "url": "https://www.deep-ml.com/problems/129",
+      "path": "problems/0129-calculate-unigram-probability-from-corpus",
+      "first_solved_at": "2026-09-24T15:20:30.984Z",
+      "last_pushed_at": "2026-09-24T15:20:30.984Z",
+      "language": "python",
+      "lines": 3
     }
   }
 }
