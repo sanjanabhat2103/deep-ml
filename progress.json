@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-22T18:05:45.340Z",
+  "generated_at": "2026-09-24T14:23:26.731Z",
   "items": {
     "problem:148": {
       "kind": "problem",
@@ -4131,6 +4131,19 @@
       "path": "math/0165-floating-point-formats-exponent-mantissa-range-and-resolution",
       "first_solved_at": "2026-09-22T18:05:43.713Z",
       "last_pushed_at": "2026-09-22T18:05:43.713Z"
+    },
+    "problem:134": {
+      "kind": "problem",
+      "id": "134",
+      "title": "Compute Multi-class Cross-Entropy Loss",
+      "difficulty": "easy",
+      "category": "Deep Learning",
+      "url": "https://www.deep-ml.com/problems/134",
+      "path": "problems/0134-compute-multi-class-cross-entropy-loss",
+      "first_solved_at": "2026-09-24T14:23:25.847Z",
+      "last_pushed_at": "2026-09-24T14:23:25.847Z",
+      "language": "python",
+      "lines": 6
     }
   }
 }
