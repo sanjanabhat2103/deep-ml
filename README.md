@@ -4,7 +4,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 
 **Completed:** Calculus (9/9)
 
-**332** solved · 262 problems · 9 labs · 61 math
+**333** solved · 263 problems · 9 labs · 61 math
 
 ![Coverage](./coverage.svg)
 
@@ -117,6 +117,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 | [KL Divergence Between Two Normal Distributions](https://www.deep-ml.com/problems/56) | easy | 2026-07-31 | [solution](problems/0056-kl-divergence-between-two-normal-distributions) |
 | [L2 Normalization Along an Axis](https://www.deep-ml.com/problems/1022) | easy | 2026-08-10 | [solution](problems/1022-l2-normalization-along-an-axis) |
 | [Leaky ReLU Activation Function](https://www.deep-ml.com/problems/44) | easy | 2026-08-04 | [solution](problems/0044-leaky-relu-activation-function) |
+| [Learning Rate Range Finder for Linear Regression](https://www.deep-ml.com/problems/990) | easy | 2026-09-25 | [solution](problems/0990-learning-rate-range-finder-for-linear-regression) |
 | [Linear Kernel Function](https://www.deep-ml.com/problems/45) | easy | 2026-08-06 | [solution](problems/0045-linear-kernel-function) |
 | [Linear Learning Rate Decay](https://www.deep-ml.com/problems/377) | easy | 2026-08-06 | [solution](problems/0377-linear-learning-rate-decay) |
 | [Linear Regression Using Gradient Descent](https://www.deep-ml.com/problems/15) | easy | 2026-07-27 | [solution](problems/0015-linear-regression-using-gradient-descent) |
