@@ -4,7 +4,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 
 **Completed:** Calculus (9/9)
 
-**334** solved · 264 problems · 9 labs · 61 math
+**335** solved · 265 problems · 9 labs · 61 math
 
 ![Coverage](./coverage.svg)
 
@@ -148,6 +148,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 | [Row-Normalize a Count Matrix to Probabilities](https://www.deep-ml.com/problems/985) | easy | 2026-07-29 | [solution](problems/0985-row-normalize-a-count-matrix-to-probabilities) |
 | [Sampling Distribution of the Mean](https://www.deep-ml.com/problems/181) | easy | 2026-07-30 | [solution](problems/0181-sampling-distribution-of-the-mean) |
 | [Scalar Multiplication of a Matrix](https://www.deep-ml.com/problems/5) | easy | 2026-07-24 | [solution](problems/0005-scalar-multiplication-of-a-matrix) |
+| [Scale Attention Scores by sqrt(d_k)](https://www.deep-ml.com/problems/963) | easy | 2026-09-25 | [solution](problems/0963-scale-attention-scores-by-sqrt-d-k) |
 | [SELECT all rows](https://www.deep-ml.com/problems/1101) | easy | 2026-08-25 | [solution](problems/1101-select-all-rows) |
 | [Select specific columns](https://www.deep-ml.com/problems/1102) | easy | 2026-08-25 | [solution](problems/1102-select-specific-columns) |
 | [Shift and Scale Array to Target Range](https://www.deep-ml.com/problems/141) | easy | 2026-08-06 | [solution](problems/0141-shift-and-scale-array-to-target-range) |
