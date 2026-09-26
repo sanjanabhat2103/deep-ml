@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-25T08:24:32.366Z",
+  "generated_at": "2026-09-26T16:25:24.150Z",
   "items": {
     "problem:148": {
       "kind": "problem",
@@ -4246,6 +4246,17 @@
       "last_pushed_at": "2026-09-25T08:24:30.553Z",
       "language": "python",
       "lines": 6
+    },
+    "math:143": {
+      "kind": "math",
+      "id": "143",
+      "title": "Tokens at Matched Accuracy",
+      "difficulty": "easy",
+      "category": "Inference Engineering",
+      "url": "https://www.deep-ml.com/math-problems/143",
+      "path": "math/0143-tokens-at-matched-accuracy",
+      "first_solved_at": "2026-09-26T16:25:23.463Z",
+      "last_pushed_at": "2026-09-26T16:25:23.463Z"
     }
   }
 }

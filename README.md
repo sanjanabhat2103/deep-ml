@@ -4,7 +4,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 
 **Completed:** Calculus (9/9)
 
-**336** solved · 266 problems · 9 labs · 61 math
+**337** solved · 266 problems · 9 labs · 62 math
 
 ![Coverage](./coverage.svg)
 
@@ -310,6 +310,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 | [Model Selection: CV, AIC, and BIC](https://www.deep-ml.com/math-problems/43) | easy | 2026-08-06 | [solution](math/0043-model-selection-cv-aic-and-bic) |
 | [Precision and Recall at a Threshold](https://www.deep-ml.com/math-problems/127) | easy | 2026-09-20 | [solution](math/0127-precision-and-recall-at-a-threshold) |
 | [Probability Fundamentals](https://www.deep-ml.com/math-problems/19) | easy | 2026-09-18 | [solution](math/0019-probability-fundamentals) |
+| [Tokens at Matched Accuracy](https://www.deep-ml.com/math-problems/143) | easy | 2026-09-26 | [solution](math/0143-tokens-at-matched-accuracy) |
 | [Vector Operations](https://www.deep-ml.com/math-problems/7) | easy | 2026-09-18 | [solution](math/0007-vector-operations) |
 | [Backpropagation and the Chain Rule](https://www.deep-ml.com/math-problems/4) | medium | 2026-09-18 | [solution](math/0004-backpropagation-and-the-chain-rule) |
 | [Basis Functions and Degrees of Freedom](https://www.deep-ml.com/math-problems/95) | medium | 2026-09-20 | [solution](math/0095-basis-functions-and-degrees-of-freedom) |
