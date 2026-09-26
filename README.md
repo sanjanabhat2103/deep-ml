@@ -4,7 +4,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 
 **Completed:** Calculus (9/9)
 
-**337** solved · 266 problems · 9 labs · 62 math
+**338** solved · 266 problems · 9 labs · 63 math
 
 ![Coverage](./coverage.svg)
 
@@ -312,6 +312,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 | [Probability Fundamentals](https://www.deep-ml.com/math-problems/19) | easy | 2026-09-18 | [solution](math/0019-probability-fundamentals) |
 | [Tokens at Matched Accuracy](https://www.deep-ml.com/math-problems/143) | easy | 2026-09-26 | [solution](math/0143-tokens-at-matched-accuracy) |
 | [Vector Operations](https://www.deep-ml.com/math-problems/7) | easy | 2026-09-18 | [solution](math/0007-vector-operations) |
+| [AUC as the Probability of Ranking a Positive Above a Negative](https://www.deep-ml.com/math-problems/128) | medium | 2026-09-26 | [solution](math/0128-auc-as-the-probability-of-ranking-a-positive-above-a-negative) |
 | [Backpropagation and the Chain Rule](https://www.deep-ml.com/math-problems/4) | medium | 2026-09-18 | [solution](math/0004-backpropagation-and-the-chain-rule) |
 | [Basis Functions and Degrees of Freedom](https://www.deep-ml.com/math-problems/95) | medium | 2026-09-20 | [solution](math/0095-basis-functions-and-degrees-of-freedom) |
 | [Bayes' Theorem](https://www.deep-ml.com/math-problems/20) | medium | 2026-09-18 | [solution](math/0020-bayes-theorem) |
