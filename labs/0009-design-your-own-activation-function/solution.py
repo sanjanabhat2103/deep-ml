@@ -16,5 +16,5 @@ def activation(x):
         - Must be deterministic
     '''   
     x = np.asarray(x, dtype = float)
-    result = 1 / (1 + np.exp(-x))
+    result = np.tanh(x)
     return result
