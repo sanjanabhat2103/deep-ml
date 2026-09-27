@@ -4,7 +4,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 
 **Completed:** Calculus (9/9)
 
-**339** solved · 266 problems · 9 labs · 64 math
+**340** solved · 266 problems · 10 labs · 64 math
 
 ![Coverage](./coverage.svg)
 
@@ -285,6 +285,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 
 | | Difficulty | Solved | |
 | --- | --- | --- | --- |
+| [Design Your Own Activation Function](https://www.deep-ml.com/labs/9) | easy | 2026-09-27 | [solution](labs/0009-design-your-own-activation-function) |
 | [Dimensionality Reduction with Sklearn](https://www.deep-ml.com/labs/15) | easy | 2026-07-30 | [solution](labs/0015-dimensionality-reduction-with-sklearn) |
 | [PyTorch: Build a Complete Training Loop](https://www.deep-ml.com/labs/13) | easy | 2026-07-29 | [solution](labs/0013-pytorch-build-a-complete-training-loop) |
 | [Split the Data Honestly and Beat a Baseline](https://www.deep-ml.com/labs/3d26c3f9-cb73-4ab1-bc4d-86cfab2af6d1) | easy | 2026-09-10 | [solution](labs/3d26c3f9-cb73-4ab1-bc4d-86cfab2af6d1-split-the-data-honestly-and-beat-a-baseline) |

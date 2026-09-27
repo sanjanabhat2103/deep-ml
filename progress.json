@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-27T16:46:50.269Z",
+  "generated_at": "2026-09-27T16:48:22.706Z",
   "items": {
     "problem:148": {
       "kind": "problem",
@@ -4279,6 +4279,19 @@
       "path": "math/0070-goodhart-s-law-proxy-correlation-under-optimization",
       "first_solved_at": "2026-09-27T16:46:49.252Z",
       "last_pushed_at": "2026-09-27T16:46:49.252Z"
+    },
+    "lab:9": {
+      "kind": "lab",
+      "id": "9",
+      "title": "Design Your Own Activation Function",
+      "difficulty": "easy",
+      "category": "Activation Functions",
+      "url": "https://www.deep-ml.com/labs/9",
+      "path": "labs/0009-design-your-own-activation-function",
+      "first_solved_at": "2026-09-27T16:48:21.921Z",
+      "last_pushed_at": "2026-09-27T16:48:21.921Z",
+      "language": "python",
+      "lines": 21
     }
   }
 }
