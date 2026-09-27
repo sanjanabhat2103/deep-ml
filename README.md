@@ -4,7 +4,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 
 **Completed:** Calculus (9/9)
 
-**338** solved · 266 problems · 9 labs · 63 math
+**339** solved · 266 problems · 9 labs · 64 math
 
 ![Coverage](./coverage.svg)
 
@@ -325,6 +325,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 | [Determinants and Trace](https://www.deep-ml.com/math-problems/11) | medium | 2026-09-18 | [solution](math/0011-determinants-and-trace) |
 | [Effective Rank and the Entropy of a Spectrum](https://www.deep-ml.com/math-problems/125) | medium | 2026-09-20 | [solution](math/0125-effective-rank-and-the-entropy-of-a-spectrum) |
 | [Floating-Point Formats: Exponent, Mantissa, Range and Resolution](https://www.deep-ml.com/math-problems/165) | medium | 2026-09-22 | [solution](math/0165-floating-point-formats-exponent-mantissa-range-and-resolution) |
+| [Goodhart's Law: Proxy Correlation under Optimization](https://www.deep-ml.com/math-problems/70) | medium | 2026-09-27 | [solution](math/0070-goodhart-s-law-proxy-correlation-under-optimization) |
 | [Gradient of a Weight Shared Across Passes](https://www.deep-ml.com/math-problems/141) | medium | 2026-09-24 | [solution](math/0141-gradient-of-a-weight-shared-across-passes) |
 | [Gram–Schmidt and Orthonormal Bases](https://www.deep-ml.com/math-problems/47) | medium | 2026-08-06 | [solution](math/0047-gram-schmidt-and-orthonormal-bases) |
 | [Information Theory: Entropy](https://www.deep-ml.com/math-problems/24) | medium | 2026-09-18 | [solution](math/0024-information-theory-entropy) |
