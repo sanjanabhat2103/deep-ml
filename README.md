@@ -4,7 +4,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 
 **Completed:** Calculus (9/9)
 
-**341** solved · 267 problems · 10 labs · 64 math
+**342** solved · 267 problems · 10 labs · 65 math
 
 ![Coverage](./coverage.svg)
 
@@ -365,6 +365,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 | [Moment-Generating Functions and a Central Limit Theorem Sketch](https://www.deep-ml.com/math-problems/148) | hard | 2026-09-20 | [solution](math/0148-moment-generating-functions-and-a-central-limit-theorem-sketch) |
 | [Probabilistic Models](https://www.deep-ml.com/math-problems/29) | hard | 2026-08-03 | [solution](math/0029-probabilistic-models) |
 | [Ridge vs Lasso: Constraint Geometry and Soft-Thresholding](https://www.deep-ml.com/math-problems/94) | hard | 2026-09-20 | [solution](math/0094-ridge-vs-lasso-constraint-geometry-and-soft-thresholding) |
+| [Why Mean Squared Error Is Non-Convex for Logistic Regression](https://www.deep-ml.com/math-problems/185) | hard | 2026-09-29 | [solution](math/0185-why-mean-squared-error-is-non-convex-for-logistic-regression) |
 
 ---
 
